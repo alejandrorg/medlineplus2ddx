@@ -1,0 +1,30 @@
+Amigdalitis	http://www.nlm.nih.gov/medlineplus/ency/article/001043.htm
+Ebola	http://www.nlm.nih.gov/medlineplus/ency/article/001339.htm
+Fiebre amarilla	http://www.nlm.nih.gov/medlineplus/ency/article/001365.htm
+Leptospirosis	http://www.nlm.nih.gov/medlineplus/ency/article/001376.htm
+Brucelosis	http://www.nlm.nih.gov/medlineplus/ency/article/000597.htm
+Cólera	http://www.nlm.nih.gov/medlineplus/ency/article/000303.htm
+Difteria	http://www.nlm.nih.gov/medlineplus/ency/article/001608.htm
+Erisipela	http://www.nlm.nih.gov/medlineplus/ency/article/000618.htm
+Fiebre Q	http://www.nlm.nih.gov/medlineplus/ency/article/001337.htm
+Fiebre Tifoidea	http://www.nlm.nih.gov/medlineplus/ency/article/001332.htm
+Legionelosis	http://www.nlm.nih.gov/medlineplus/ency/article/000616.htm
+Tetanos	http://www.nlm.nih.gov/medlineplus/ency/article/000615.htm
+Varicela	http://www.nlm.nih.gov/medlineplus/ency/article/001592.htm
+Eritema infeccioso	http://www.nlm.nih.gov/medlineplus/ency/article/000977.htm
+Hepatitis	http://www.nlm.nih.gov/medlineplus/ency/article/001154.htm
+Herpes oral	http://www.nlm.nih.gov/medlineplus/ency/article/000606.htm
+Impetigo	http://www.nlm.nih.gov/medlineplus/ency/article/000860.htm
+Gripe	http://www.nlm.nih.gov/medlineplus/ency/article/000080.htm
+Meningitis	http://www.nlm.nih.gov/medlineplus/ency/article/000680.htm
+Paperas	http://www.nlm.nih.gov/medlineplus/ency/article/001557.htm
+Poliomielitis	http://www.nlm.nih.gov/medlineplus/ency/article/001402.htm
+Rabia	http://www.nlm.nih.gov/medlineplus/ency/article/001334.htm
+Fiebre de las montañas rocosas	http://www.nlm.nih.gov/medlineplus/ency/article/000654.htm
+Roseola	http://www.nlm.nih.gov/medlineplus/ency/article/000968.htm
+Rubeola	http://www.nlm.nih.gov/medlineplus/ency/article/001574.htm
+Sarampión	http://www.nlm.nih.gov/medlineplus/ency/article/001569.htm
+Escarlatina	http://www.nlm.nih.gov/medlineplus/ency/article/000974.htm
+SARS	http://www.nlm.nih.gov/medlineplus/ency/article/007192.htm
+Virus del nilo occidental	http://www.nlm.nih.gov/medlineplus/ency/article/007186.htm
+Tos ferina	http://www.nlm.nih.gov/medlineplus/ency/article/001561.htm
