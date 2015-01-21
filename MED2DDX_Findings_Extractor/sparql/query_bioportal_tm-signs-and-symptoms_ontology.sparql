@@ -1,0 +1,12 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ictm: <http://who.int/ictm#>
+
+SELECT DISTINCT ?subc ?name ?id
+FROM <http://bioportal.bioontology.org/ontologies/TM-SIGNS-AND-SYMPTS>
+WHERE {
+    ?subc a owl:Class.
+    ?subc rdfs:label ?name.
+    ?subc ictm:originalCode ?id.
+}

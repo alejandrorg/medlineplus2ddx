@@ -1,0 +1,150 @@
+Name: Fifth Disease
+ID: C0085273
+Semantic types: dsyn
+
+
+Name: Rash
+ID: C0015230
+Semantic types: dsyn
+
+
+Name: Disease
+ID: C0012634
+Semantic types: dsyn
+
+
+Name: COUGHS
+ID: C0010200
+Semantic types: sosy
+
+
+Name: Sneezes
+ID: C0037383
+Semantic types: fndg
+
+
+Name: Bright red
+ID: C1272329
+Semantic types: fndg
+
+
+Name: Fever
+ID: C0015967
+Semantic types: fndg
+
+
+Name: HEAD ACHE
+ID: C0018681
+Semantic types: sosy
+
+
+Name: Runny nose
+ID: C1260880
+Semantic types: sosy
+
+
+Name: Sign
+ID: C0311392
+Semantic types: fndg
+
+
+Name: Illness
+ID: C0221423
+Semantic types: fndg
+
+
+Name: Malar rash
+ID: C0277942
+Semantic types: fndg
+
+
+Name: Itch
+ID: C0033774
+Semantic types: sosy
+
+
+Name: Swelling
+ID: C0038999
+Semantic types: fndg
+
+
+Name: Joint Pain
+ID: C0003862
+Semantic types: sosy
+
+
+Name: Test
+ID: C0022885
+Semantic types: lbpr
+
+
+Name: Blood Tests
+ID: C0018941
+Semantic types: lbpr
+
+
+Name: SIGNS
+ID: C0311392
+Semantic types: fndg
+
+
+Name: Blood test
+ID: C0018941
+Semantic types: lbpr
+
+
+Name: Pregnant
+ID: C0549206
+Semantic types: fndg
+
+
+Name: Anaemia
+ID: C0002871
+Semantic types: dsyn
+
+
+Name: itchy rash
+ID: C0033771
+Semantic types: dsyn
+
+
+Name: talk
+ID: C0600118
+Semantic types: fndg
+
+
+Name: mild symptoms
+ID: C0436343
+Semantic types: fndg
+
+
+Name: First pregnancy
+ID: C0860096
+Semantic types: fndg
+
+
+Name: Weak
+ID: C0004093
+Semantic types: sosy
+
+
+Name: HIV infection
+ID: C0019693
+Semantic types: dsyn
+
+
+Name: VASCULAR PROBLEM, NOS
+ID: C0042373
+Semantic types: dsyn
+
+
+Name: Anemia, Sickle Cell
+ID: C0002895
+Semantic types: dsyn
+
+
+Name: Erythema Infectiosum
+ID: C0085273
+Semantic types: dsyn
+
+

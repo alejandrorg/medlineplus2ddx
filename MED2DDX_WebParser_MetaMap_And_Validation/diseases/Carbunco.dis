@@ -1,0 +1,35 @@
+Anthrax!C0003175!dsyn
+cutaneous symptom!C0586407!sosy
+Itchy!C0033774!sosy
+sore!C0234233!sosy
+Blister!C1579830!fndg
+Swelling!C0038999!fndg
+Fall!C0085639!fndg
+Inhalation anthrax!C0155866!dsyn
+Fever!C0015967!fndg
+HEAD ACHE!C0018681!sosy
+Cough!C0010200!sosy
+Shortness of Breath!C0013404!sosy
+Breast Pain!C0024902!sosy
+Malaise!C0231218!sosy
+Gastrointestinal symptoms NOS!C0426576!sosy
+Abdominal Pain!C0000737!sosy
+Bloody diarrhea!C0151594!dsyn
+Diarrhea!C0011991!sosy
+oral sores!C0149745!dsyn
+Nausea!C0027497!sosy
+Vomiting!C0042963!sosy
+vomit!C0042963!sosy
+Tests!C0022885!lbpr
+Culture!C0430400!lbpr
+sore on skin!C0037299!dsyn
+Biopsy!C0005558!diap
+Blood culture!C0200949!lbpr
+chest ct scan!C0202823!diap
+Chest X-ray!C0039985!diap
+Spinal Tap!C0037943!diap@topp
+Infection, NOS!C0009450!dsyn
+Sputum culture!C0523174!lbpr
+PCR!C0032520!lbpr@mbrt
+Immunofluorescence!C0016318!lbpr
+Immunohistochemistry!C0021044!diap

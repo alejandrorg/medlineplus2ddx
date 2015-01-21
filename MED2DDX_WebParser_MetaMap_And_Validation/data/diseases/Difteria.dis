@@ -1,0 +1,28 @@
+#
+#Sat Oct 25 17:34:20 CEST 2014
+TEXT_21=ECG
+TEXT_20=Electrocardiogram ()
+URL_SPANISH=http\://www.nlm.nih.gov/medlineplus/spanish/ency/article/001608.htm
+NAME=Difteria
+TEXT_9=Hoarseness
+TEXT_8=Fever
+TEXT_7=Drooling
+TEXT_6=(suggests airway blockage is about to occur)
+TEXT_5=Croup-like (barking) cough
+TEXT_4=Chills
+TEXT_3=Breathing problems, including difficulty breathing, fast breathing,\u00A0high-pitched breathing sound\u00A0(stridor)
+TEXT_2=Bloody, watery drainage from nose
+TEXT_1=Bluish coloration of the skin
+TEXT_0=Symptoms usually occur 1\u00A0- 7 days after the bacteria enter your body\:
+NUMBER_TEXTS=22
+TEXT_19=Toxin assay (to detect the presence of the toxin made by the bacteria)\u00A0
+TEXT_18=throat culture
+TEXT_17=Gram stain or to identify the diphtheria bacteria
+URL_ENGLISH=http\://www.nlm.nih.gov/medlineplus/ency/article/001608.htm
+TEXT_16=Tests used may include\:
+TEXT_15=enlarged lymph glands
+TEXT_14=The health care provider will perform a physical exam and look inside your mouth. This may reveal a gray to black covering (pseudomembrane) in the throat, , and swelling of the neck or larynx.
+TEXT_13=Note\: There may be no symptoms.
+TEXT_12=Sore throat (may range from mild to severe)
+TEXT_11=Skin sores (usually seen in tropical areas)
+TEXT_10=Painful swallowing

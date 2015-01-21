@@ -1,0 +1,18 @@
+#
+#Sat Oct 25 17:34:21 CEST 2014
+NUMBER_TEXTS=12
+URL_ENGLISH=http\://www.nlm.nih.gov/medlineplus/ency/article/000860.htm
+URL_SPANISH=http\://www.nlm.nih.gov/medlineplus/spanish/ency/article/000860.htm
+TEXT_11=The health care provider may take a sample of bacteria from your skin to grow in the lab.This can help determine if MRSA is the cause. Specific antibiotics are needed to treat this type of bacteria.
+TEXT_10=Your health care provider will look at your skin to determine if you have impetigo.
+TEXT_9=Swollen lymph nodes near the infection
+TEXT_8=Skin sores
+TEXT_7=on the face, lips, arms, or legs, that spread to other areas
+TEXT_6=Rash
+TEXT_5=that may begin as a single spot, but spreads to other areas with scratching
+TEXT_4=Oozing and crusting over
+TEXT_3=Filled with yellow or honey-colored fluid
+TEXT_2=Blisters that itch\:
+TEXT_1=One or\u00A0many blisters filled with pus that are easy to pop. In infants, the skin is reddish or raw-looking where a blister has broken.\u00A0
+NAME=Impetigo
+TEXT_0=Symptoms of impetigo are\:

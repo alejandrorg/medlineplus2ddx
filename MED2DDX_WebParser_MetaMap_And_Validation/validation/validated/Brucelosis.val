@@ -1,0 +1,107 @@
+Abdominal Pain:
+	Abdominal pain!CSSO Ontology!CUI
+	Abdominal pain!Freebase!CUI
+	Unspecified abdominal pain!ICD10CM!CUI
+	Abdominal pain, unspecified site!ICD9CM!CUI
+	abdominal pain {ABDOMINAL PAIN}!TM Signs and Symptoms Ontology!Equals
+	abdominal pain {ABDOMINAL PAIN}!Wikipedia!Equals
+
+BACKPAIN:
+	Back pain!Freebase!CUI
+
+Chills:
+	Chills!CSSO Ontology!CUI
+	Chills {CHILLS}!Freebase!Equals
+	Chills (without fever)!ICD10CM!CUI
+	Chills!MeSH!CUI
+
+Excessive sweating:
+	Excessive sweating {EXCESSIVE SWEATING}!Freebase!Equals
+	Hyperhidrosis!Freebase!CUI
+	Generalized hyperhidrosis!ICD10CM!CUI
+
+Fatigue:
+	Fatigue!CSSO Ontology!CUI
+	Fatigue!Freebase!CUI
+	Fatigue {FATIGUE}!Freebase!Equals
+	Other fatigue!ICD10CM!CUI
+	Other fatigue {FATIGUE}!ICD10CM!Equals
+	Other fatigue {FATIGUE}!ICD10CM!Equals
+	fatigue {FATIGUE}!Symptoms Ontology!Equals
+	fatigue {FATIGUE}!Wikipedia!Equals
+
+Fever:
+	Fever!Freebase!CUI
+	Fever, unspecified!ICD10CM!CUI
+	Fever, unspecified!ICD9CM!CUI
+	fever {FEVER}!Symptoms Ontology!Equals
+	Fever {FEVER}!TM Signs and Symptoms Ontology!Equals
+
+HEAD ACHE:
+	Headache!Freebase!CUI
+	Headache!ICD10CM!CUI
+	Headache!ICD9CM!CUI
+
+Joint Pain:
+	Joint pain!CSSO Ontology!CUI
+	Joint pain!Freebase!CUI
+
+Loss of appetite:
+	Anorexia!CSSO Ontology!CUI
+	Anorexia!Freebase!CUI
+	Anorexia!ICD10CM!CUI
+	Anorexia!ICD9CM!CUI
+	Anorexia!MeSH!CUI
+	loss of appetite {APPETITE LOSS}!Wikipedia!Equals
+
+Weakness:
+	Weakness!CSSO Ontology!CUI
+	Asthenia!CSSO Ontology!CUI
+	Asthenia!Freebase!CUI
+	Weakness {WEAKNESS}!Freebase!Equals
+	weekness {WEEKNESS}!Freebase!Similarity
+	Weakness {WEAKNESS}!Freebase!Equals
+	Weakness!ICD10CM!CUI
+	Weakness {WEAKNESS}!ICD10CM!Equals
+	Asthenia!MeSH!CUI
+
+WEIGHTLOSS:
+	Weight loss!CSSO Ontology!CUI
+	Weight loss!Freebase!CUI
+	Loss of weight!ICD9CM!CUI
+
+Fall:
+	Falling!Freebase!CUI
+	Repeated falls!ICD10CM!CUI
+
+Muscle Pain:
+	Myalgia!CSSO Ontology!CUI
+	Muscle pain!Freebase!CUI
+
+SWOLLEN GLANDS:
+	Swollen glands {GLANDS SWOLLEN}!Freebase!Equals
+	Swollen lymph nodes!Freebase!CUI
+	Generalized enlarged lymph nodes!ICD10CM!CUI
+	Enlarged lymph nodes, unspecified!ICD10CM!CUI
+	Enlargement of lymph nodes!ICD9CM!CUI
+
+Illness:
+	Illness, unspecified!ICD10CM!CUI
+
+Blood culture:
+	Blood culture {BLOOD CULTURE}!Freebase!Equals
+
+Urine culture:
+	Urine Culture {CULTURE URINE}!Freebase!Equals
+
+Serology:
+	Serology {SEROLOGY}!MediciNet!Equals
+
+Biopsy:
+	Biopsy {BIOPSY}!Freebase!Equals
+
+Febrile:
+	Fever!Freebase!CUI
+	Fever, unspecified!ICD10CM!CUI
+	Fever, unspecified!ICD9CM!CUI
+

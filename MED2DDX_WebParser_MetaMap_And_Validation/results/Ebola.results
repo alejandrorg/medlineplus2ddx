@@ -1,0 +1,215 @@
+Name: Ebola haemorrhagic fever
+ID: C0282687
+Semantic types: dsyn
+
+
+Name: Illness
+ID: C0221423
+Semantic types: fndg
+
+
+Name: Fever
+ID: C0015967
+Semantic types: fndg
+
+
+Name: Disease
+ID: C0012634
+Semantic types: dsyn
+
+
+Name: Incubation period
+ID: C1320226
+Semantic types: fndg
+
+
+Name: Infection, NOS
+ID: C0009450
+Semantic types: dsyn
+
+
+Name: Arthritis
+ID: C0003864
+Semantic types: dsyn
+
+
+Name: Backache
+ID: C0004604
+Semantic types: sosy
+
+
+Name: Low Back Pain
+ID: C0024031
+Semantic types: sosy
+
+
+Name: Chills
+ID: C0085593
+Semantic types: sosy
+
+
+Name: Diarrhea
+ID: C0011991
+Semantic types: sosy
+
+
+Name: Fatigue
+ID: C0015672
+Semantic types: sosy
+
+
+Name: HEAD ACHE
+ID: C0018681
+Semantic types: sosy
+
+
+Name: Malaise
+ID: C0231218
+Semantic types: sosy
+
+
+Name: Nausea
+ID: C0027497
+Semantic types: sosy
+
+
+Name: sore throat
+ID: C0031350
+Semantic types: dsyn
+
+
+Name: SORETHROAT
+ID: C0242429
+Semantic types: sosy
+
+
+Name: Vomiting
+ID: C0042963
+Semantic types: sosy
+
+
+Name: bleeding eyes
+ID: C0423008
+Semantic types: fndg
+
+
+Name: Eye swelling
+ID: C0270996
+Semantic types: sosy
+
+
+Name: Conjunctivitis
+ID: C0009763
+Semantic types: dsyn
+
+
+Name: Pain
+ID: C0030193
+Semantic types: sosy
+
+
+Name: Rash
+ID: C0015230
+Semantic types: dsyn
+
+
+Name: Red
+ID: C0332575
+Semantic types: fndg
+
+
+Name: SIGNS
+ID: C0311392
+Semantic types: fndg
+
+
+Name: Coma
+ID: C0009421
+Semantic types: dsyn
+
+
+Name: Disseminated Intravascular Coagulation
+ID: C0012739
+Semantic types: dsyn
+
+
+Name: Test
+ID: C0022885
+Semantic types: lbpr
+
+
+Name: Tests
+ID: C0022885
+Semantic types: lbpr
+
+
+Name: used
+ID: C1273517
+Semantic types: fndg
+
+
+Name: CBC
+ID: C0009555
+Semantic types: lbpr
+
+
+Name: blood Coagulation study
+ID: C0005790
+Semantic types: lbpr
+
+
+Name: Liver Function Tests
+ID: C0023901
+Semantic types: lbpr
+
+
+Name: HOSPITALIZED
+ID: C0701159
+Semantic types: fndg
+
+
+Name: Blood Pressure, Low
+ID: C0020649
+Semantic types: fndg
+
+
+Name: Hair loss
+ID: C0002170
+Semantic types: fndg
+
+
+Name: Disorder
+ID: C0012634
+Semantic types: dsyn
+
+
+Name: ebola virus infection
+ID: C0282687
+Semantic types: dsyn
+
+
+Name: Viral haemorrhagic fever
+ID: C0019104
+Semantic types: dsyn
+
+
+Name: Hemorrhagic Fevers, Viral
+ID: C0019104
+Semantic types: dsyn
+
+
+Name: ebola hemorrhagic fevers
+ID: C0282687
+Semantic types: dsyn
+
+
+Name: Infectious Diseases
+ID: C0009450
+Semantic types: dsyn
+
+
+Name: Infectious disease
+ID: C0009450
+Semantic types: dsyn
+
+

@@ -1,0 +1,128 @@
+ILL FEELING:
+	Malaise!CSSO Ontology!CUI
+	Malaise!Freebase!CUI
+	Other malaise!ICD10CM!CUI
+
+Fever:
+	Fever!Freebase!CUI
+	Fever, unspecified!ICD10CM!CUI
+	Fever, unspecified!ICD9CM!CUI
+	fever {FEVER}!Symptoms Ontology!Equals
+	Fever {FEVER}!TM Signs and Symptoms Ontology!Equals
+
+Severe diarrhea:
+	Severe diarrhea!Freebase!CUI
+
+Abdominal Pain:
+	Abdominal pain!CSSO Ontology!CUI
+	Abdominal pain!Freebase!CUI
+	Unspecified abdominal pain!ICD10CM!CUI
+	Abdominal pain, unspecified site!ICD9CM!CUI
+	abdominal pain {ABDOMINAL PAIN}!TM Signs and Symptoms Ontology!Equals
+	abdominal pain {ABDOMINAL PAIN}!Wikipedia!Equals
+
+Rash:
+	Skin rash!Freebase!CUI
+	Rash and other nonspecific skin eruption!ICD10CM!CUI
+	Rash and other nonspecific skin eruption!ICD9CM!CUI
+	rash {RASH}!Wikipedia!Equals
+
+spots:
+	Skin rash!Freebase!CUI
+	Rash and other nonspecific skin eruption!ICD10CM!CUI
+	Rash and other nonspecific skin eruption!ICD9CM!CUI
+
+Abdominal tenderness:
+	Abdominal tenderness!CSSO Ontology!CUI
+	Abdominal tenderness!Freebase!CUI
+	Abdominal tenderness, unspecified site!ICD10CM!CUI
+	Abdominal tenderness, unspecified site!ICD9CM!CUI
+
+Agitation:
+	Agitation!Freebase!CUI
+	Agitation {AGITATION}!Freebase!Equals
+	agitation {AGITATION}!TM Signs and Symptoms Ontology!Equals
+
+bloody stools:
+	Bloody stool!CSSO Ontology!CUI
+	Hematochezia!Freebase!CUI
+
+Chills:
+	Chills!CSSO Ontology!CUI
+	Chills {CHILLS}!Freebase!Equals
+	Chills (without fever)!ICD10CM!CUI
+	Chills!MeSH!CUI
+
+Confusion:
+	Confusion {CONFUSION}!CSSO Ontology!Equals
+	Contusion {CONTUSION}!Freebase!Similarity
+	Confusion {CONFUSION}!Freebase!Equals
+	confusion {CONFUSION}!Wikipedia!Equals
+
+Deficit, NOS:
+	Nutritional deficiency!CSSO Ontology!CUI
+	Malnutrition!Freebase!CUI
+
+Fatigue:
+	Fatigue!CSSO Ontology!CUI
+	Fatigue!Freebase!CUI
+	Fatigue {FATIGUE}!Freebase!Equals
+	Other fatigue!ICD10CM!CUI
+	Other fatigue {FATIGUE}!ICD10CM!Equals
+	Other fatigue {FATIGUE}!ICD10CM!Equals
+	fatigue {FATIGUE}!Symptoms Ontology!Equals
+	fatigue {FATIGUE}!Wikipedia!Equals
+
+Lethargic:
+	Lethargy!Freebase!CUI
+	Other fatigue!ICD10CM!CUI
+
+Weakness:
+	Weakness!CSSO Ontology!CUI
+	Asthenia!CSSO Ontology!CUI
+	Asthenia!Freebase!CUI
+	Weakness {WEAKNESS}!Freebase!Equals
+	weekness {WEEKNESS}!Freebase!Similarity
+	Weakness {WEAKNESS}!Freebase!Equals
+	Weakness!ICD10CM!CUI
+	Weakness {WEAKNESS}!ICD10CM!Equals
+	Asthenia!MeSH!CUI
+
+CBC:
+	CBC {CBC}!MediciNet!Equals
+	CBC {CBC}!MediciNet!Equals
+
+Complete Blood Count:
+	Complete blood count {BLOOD COMPLETE COUNT}!Freebase!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+
+Blood culture:
+	Blood culture {BLOOD CULTURE}!Freebase!Equals
+
+ELISA:
+	ELISA {ELISA}!Freebase!Equals
+
+Platelet Count:
+	Platelet count {COUNT PLATELET}!Freebase!Equals
+	Platelet Count {COUNT PLATELET}!MediciNet!Equals
+
+Stool culture:
+	Stool culture {CULTURE STOOL}!Freebase!Equals
+

@@ -1,0 +1,81 @@
+Cramps:
+	Cramp!Freebase!CUI
+	Muscle Cramp!MeSH!CUI
+
+Dry mouth:
+	Xerostomia!Freebase!CUI
+	dry mouth {DRY MOUTH}!TM Signs and Symptoms Ontology!Equals
+	dry mouth {DRY MOUTH}!Wikipedia!Equals
+
+Dry skin:
+	Xeroderma!Freebase!CUI
+
+excessive thirst:
+	Excessive thirst {EXCESSIVE THIRST}!Freebase!Equals
+	Polydipsia!Freebase!CUI
+	Polydipsia!ICD10CM!CUI
+	Polydipsia!ICD9CM!CUI
+
+Lethargy:
+	Lethargy!Freebase!CUI
+	Other fatigue!ICD10CM!CUI
+
+LOW URINE OUTPUT:
+	Oliguria!Freebase!CUI
+	Oliguria!MeSH!CUI
+
+Nausea:
+	Nausea!CSSO Ontology!CUI
+	Nausea!Freebase!CUI
+	Nausea {NAUSEA}!ICD10CM!Equals
+	Nausea!ICD10CM!CUI
+	Nausea alone {NAUSEA}!ICD9CM!Equals
+	nausea {NAUSEA}!Symptoms Ontology!Equals
+	nausea {NAUSEA}!TM Signs and Symptoms Ontology!Equals
+	nausea {NAUSEA}!Wikipedia!Equals
+
+Dehydration:
+	Dehydration!CSSO Ontology!CUI
+	Dehydration!Freebase!CUI
+
+Rapid pulse:
+	Tachycardia!CSSO Ontology!CUI
+	Tachycardia!Freebase!CUI
+	Tachycardia, unspecified!ICD10CM!CUI
+	Tachycardia, unspecified!ICD9CM!CUI
+
+spots:
+	Skin rash!Freebase!CUI
+	Rash and other nonspecific skin eruption!ICD10CM!CUI
+	Rash and other nonspecific skin eruption!ICD9CM!CUI
+
+Tiredness:
+	Fatigue!CSSO Ontology!CUI
+	Fatigue!Freebase!CUI
+	Other fatigue!ICD10CM!CUI
+
+Sleepiness:
+	Sleepiness {SLEEPINESS}!CSSO Ontology!Equals
+	Somnolence!Freebase!CUI
+
+Vomiting:
+	Vomiting!Freebase!CUI
+	Vomiting, unspecified!ICD10CM!CUI
+	Vomiting alone {VOMITING}!ICD9CM!Equals
+	vomiting {VOMITING}!Symptoms Ontology!Equals
+	vomiting {VOMITING}!TM Signs and Symptoms Ontology!Equals
+	vomiting {VOMITING}!Wikipedia!Equals
+
+Diarrhea:
+	Diarrhea!Freebase!CUI
+	Diarrhea, unspecified!ICD10CM!CUI
+	Diarrhea!ICD9CM!CUI
+	diarrhea {DIARRHEA}!TM Signs and Symptoms Ontology!Equals
+	diarrhea {DIARRHEA}!Wikipedia!Equals
+
+Blood culture:
+	Blood culture {BLOOD CULTURE}!Freebase!Equals
+
+Stool culture:
+	Stool culture {CULTURE STOOL}!Freebase!Equals
+

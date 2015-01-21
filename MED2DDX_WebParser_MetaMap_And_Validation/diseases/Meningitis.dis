@@ -1,0 +1,27 @@
+Meningitis, Bacterial!C0085437!dsyn
+Fall!C0085639!fndg
+Fever!C0015967!fndg
+Chills!C0085593!sosy
+Mental status!C0278060!fndg
+Nausea!C0027497!sosy
+Vomiting!C0042963!sosy
+Photophobia!C0085636!sosy
+HEAD ACHE!C0018681!sosy
+Stiff neck!C0151315!sosy
+Meningismus!C0025287!sosy
+Disease!C0012634!dsyn
+Agitation!C0085631!sosy
+bulging fontanelles!C0235014!sosy
+Poor feeding!C0576456!fndg
+Irritability!C0022107!fndg
+Rapid breathing!C0231835!sosy
+Opisthotonos!C0151818!sosy
+Viral meningitis!C0025297!dsyn
+fast heart rate!C0039231!fndg
+Lumbar Puncture!C0037943!diap@topp
+Lumbar puncture, NOS!C0553794!diap
+Spinal Tap!C0037943!diap@topp
+Tests!C0022885!lbpr
+Blood culture!C0200949!lbpr
+Chest X-ray!C0039985!diap
+CT scan of head!C0202691!diap

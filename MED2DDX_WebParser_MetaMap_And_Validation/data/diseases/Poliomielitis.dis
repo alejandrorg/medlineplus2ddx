@@ -1,0 +1,31 @@
+#
+#Sat Oct 25 17:34:21 CEST 2014
+TEXT_24=antibodies
+TEXT_23=Test for levels of to the polio virus
+TEXT_22=CSF examination
+TEXT_21=Spinal tap and examination of the spinal fluid () using PCR
+TEXT_20=Cultures of throat washings, stools, or spinal fluid
+URL_SPANISH=http\://www.nlm.nih.gov/medlineplus/spanish/ency/article/001402.htm
+NAME=Poliomielitis
+TEXT_9=Vomiting
+TEXT_8=Sore throat
+TEXT_7=fever
+TEXT_6=Slight
+TEXT_5=Red throat
+TEXT_4=Headache
+TEXT_3=malaise
+TEXT_2=General discomfort or uneasiness ()
+TEXT_1=SUBCLINICAL INFECTION SYMPTOMS
+TEXT_0=There are three basic patterns of polio infection\: subclinical infections, nonparalytic, and paralytic. Most people have subclinical infection, and may not have symptoms.
+NUMBER_TEXTS=25
+TEXT_19=Tests include\:
+TEXT_18=Trouble bending the neck
+TEXT_17=Stiff neck
+URL_ENGLISH=http\://www.nlm.nih.gov/medlineplus/ency/article/001402.htm
+TEXT_16=Difficulty lifting the head or legs when lying flat on the back
+TEXT_15=Back stiffness
+TEXT_14=Abnormal reflexes
+TEXT_13=The health care provider may find\:
+TEXT_12=central nervous system
+TEXT_11=Clinical poliomyelitis affects the (brain and spinal cord), and is divided into nonparalytic and paralytic forms. It may occur after recovery from a subclinical infection.
+TEXT_10=People with subclinical polio infection might not have symptoms, or mild symptoms may last 72 hours or less.

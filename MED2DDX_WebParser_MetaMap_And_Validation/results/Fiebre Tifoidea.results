@@ -1,0 +1,270 @@
+Name: Typhoid Fever
+ID: C0041466
+Semantic types: dsyn
+
+
+Name: Infection, NOS
+ID: C0009450
+Semantic types: dsyn
+
+
+Name: Diarrhea
+ID: C0011991
+Semantic types: sosy
+
+
+Name: Rash
+ID: C0015230
+Semantic types: dsyn
+
+
+Name: carriers
+ID: C0007294
+Semantic types: fndg
+
+
+Name: Disease
+ID: C0012634
+Semantic types: dsyn
+
+
+Name: ILL FEELING
+ID: C0231218
+Semantic types: sosy
+
+
+Name: Fever
+ID: C0015967
+Semantic types: fndg
+
+
+Name: Severe diarrhea
+ID: C1443924
+Semantic types: sosy
+
+
+Name: Worse
+ID: C1279889
+Semantic types: fndg
+
+
+Name: Abdominal Pain
+ID: C0000737
+Semantic types: sosy
+
+
+Name: spots
+ID: C0015230
+Semantic types: dsyn
+
+
+Name: Red
+ID: C0332575
+Semantic types: fndg
+
+
+Name: Abdominal tenderness
+ID: C0232498
+Semantic types: sosy
+
+
+Name: Agitation
+ID: C0085631
+Semantic types: sosy
+
+
+Name: bloody stools
+ID: C0018932
+Semantic types: fndg
+
+
+Name: Chills
+ID: C0085593
+Semantic types: sosy
+
+
+Name: Confusion
+ID: C0683369
+Semantic types: sosy
+
+
+Name: Difficulty
+ID: C1299586
+Semantic types: fndg
+
+
+Name: Deficit, NOS
+ID: C0162429
+Semantic types: dsyn
+
+
+Name: Fatigue
+ID: C0015672
+Semantic types: sosy
+
+
+Name: Sluggishness
+ID: C0920289
+Semantic types: sosy
+
+
+Name: Lethargic
+ID: C0023380
+Semantic types: sosy
+
+
+Name: Weakness
+ID: C0004093
+Semantic types: sosy
+
+
+Name: Test
+ID: C0022885
+Semantic types: lbpr
+
+
+Name: CBC
+ID: C0009555
+Semantic types: lbpr
+
+
+Name: high white blood cells
+ID: C0750426
+Semantic types: fndg
+
+
+Name: white blood cells number
+ID: C0023508
+Semantic types: lbpr
+
+
+Name: Complete Blood Count
+ID: C0009555
+Semantic types: lbpr
+
+
+Name: Blood culture
+ID: C0200949
+Semantic types: lbpr
+
+
+Name: Tests
+ID: C0022885
+Semantic types: lbpr
+
+
+Name: condition
+ID: C0012634
+Semantic types: dsyn
+
+
+Name: ELISA
+ID: C0014441
+Semantic types: lbpr
+
+
+Name: Typhoid
+ID: C0041466
+Semantic types: dsyn
+
+
+Name: Platelet Count
+ID: C0032181
+Semantic types: lbpr
+
+
+Name: Stool culture
+ID: C0430414
+Semantic types: lbpr
+
+
+Name: Intestinal Perforation
+ID: C0021845
+Semantic types: acab, dsyn
+
+
+Name: Kidney Failure
+ID: C0035078
+Semantic types: dsyn
+
+
+Name: Peritonitis
+ID: C0031154
+Semantic types: dsyn
+
+
+Name: Fever symptoms
+ID: C0424755
+Semantic types: fndg
+
+
+Name: Severe pain
+ID: C0278140
+Semantic types: sosy
+
+
+Name: decreased urine output
+ID: C0028961
+Semantic types: sosy
+
+
+Name: Boil
+ID: C0242301
+Semantic types: dsyn
+
+
+Name: Enteric Fever
+ID: C0041466
+Semantic types: dsyn
+
+
+Name: Infectious enteritis
+ID: C0021342
+Semantic types: dsyn
+
+
+Name: Proctocolitis
+ID: C0033247
+Semantic types: dsyn
+
+
+Name: Liver disease
+ID: C0023895
+Semantic types: dsyn
+
+
+Name: Enteritides
+ID: C0014335
+Semantic types: dsyn
+
+
+Name: Infectious Diseases
+ID: C0009450
+Semantic types: dsyn
+
+
+Name: Infectious disease
+ID: C0009450
+Semantic types: dsyn
+
+
+Name: Salmonella infections
+ID: C0036117
+Semantic types: dsyn
+
+
+Name: Kidney Failure, Acute
+ID: C0022660
+Semantic types: dsyn
+
+
+Name: Malaise
+ID: C0231218
+Semantic types: sosy
+
+
+Name: Rashes
+ID: C0015230
+Semantic types: dsyn
+
+

@@ -1,0 +1,195 @@
+Name: Rocky Mountain Spotted Fever
+ID: C0035793
+Semantic types: dsyn
+
+
+Name: Disease
+ID: C0012634
+Semantic types: dsyn
+
+
+Name: carried
+ID: C0699809
+Semantic types: fndg
+
+
+Name: Infection, NOS
+ID: C0009450
+Semantic types: dsyn
+
+
+Name: carry
+ID: C0699809
+Semantic types: fndg
+
+
+Name: Chills
+ID: C0085593
+Semantic types: sosy
+
+
+Name: Confusion
+ID: C0683369
+Semantic types: sosy
+
+
+Name: Fever
+ID: C0015967
+Semantic types: fndg
+
+
+Name: HEAD ACHE
+ID: C0018681
+Semantic types: sosy
+
+
+Name: Muscle Pain
+ID: C0231528
+Semantic types: sosy
+
+
+Name: Rash
+ID: C0015230
+Semantic types: dsyn
+
+
+Name: spots
+ID: C0015230
+Semantic types: dsyn
+
+
+Name: Diarrhea
+ID: C0011991
+Semantic types: sosy
+
+
+Name: Light Sensitivity
+ID: C0085636
+Semantic types: sosy
+
+
+Name: Loss of appetite
+ID: C0003123
+Semantic types: dsyn
+
+
+Name: Nausea
+ID: C0027497
+Semantic types: sosy
+
+
+Name: Vomiting
+ID: C0042963
+Semantic types: sosy
+
+
+Name: Test
+ID: C0022885
+Semantic types: lbpr
+
+
+Name: Immunofluorescence
+ID: C0016318
+Semantic types: lbpr
+
+
+Name: Antibody titer
+ID: C0474643
+Semantic types: lbpr
+
+
+Name: CBC
+ID: C0009555
+Semantic types: lbpr
+
+
+Name: Complete Blood Count
+ID: C0009555
+Semantic types: lbpr
+
+
+Name: Kidney Function Tests
+ID: C0022662
+Semantic types: lbpr
+
+
+Name: Partial Thromboplastin Time
+ID: C0030605
+Semantic types: lbpr
+
+
+Name: Time, Prothrombin
+ID: C0033707
+Semantic types: lbpr
+
+
+Name: Skin biopsy
+ID: C0150866
+Semantic types: diap
+
+
+Name: Urinalysis
+ID: C0042014
+Semantic types: lbpr
+
+
+Name: Protein - urine
+ID: C0262923
+Semantic types: lbpr
+
+
+Name: Pregnant
+ID: C0549206
+Semantic types: fndg
+
+
+Name: Heart failure
+ID: C0018801
+Semantic types: dsyn
+
+
+Name: Kidney Failure
+ID: C0035078
+Semantic types: dsyn
+
+
+Name: lives
+ID: C0595998
+Semantic types: fndg
+
+
+Name: pulling
+ID: C0580846
+Semantic types: fndg
+
+
+Name: FEVER, SPOTTED
+ID: C0038041
+Semantic types: dsyn
+
+
+Name: Tick-Borne Diseases
+ID: C0162700
+Semantic types: dsyn
+
+
+Name: Spotted fevers
+ID: C0038041
+Semantic types: dsyn
+
+
+Name: Infectious Diseases
+ID: C0009450
+Semantic types: dsyn
+
+
+Name: Infectious disease
+ID: C0009450
+Semantic types: dsyn
+
+
+Name: Petechial rash
+ID: C0031256
+Semantic types: dsyn
+
+

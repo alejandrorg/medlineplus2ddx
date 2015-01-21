@@ -1,0 +1,11 @@
+PREFIX void: <http://rdfs.org/ns/void#>
+PREFIX dv: <http://bio2rdf.org/bio2rdf.dataset_vocabulary:>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+SELECT ?subc ?id ?name
+WHERE {
+    ?subc rdfs:subClassOf <@CLASS>.
+    ?subc dcterms:identifier ?id.
+    ?subc rdfs:label ?name.
+}

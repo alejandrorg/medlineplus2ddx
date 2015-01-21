@@ -1,0 +1,14 @@
+#
+#Sat Oct 25 17:34:22 CEST 2014
+NUMBER_TEXTS=8
+URL_ENGLISH=http\://www.nlm.nih.gov/medlineplus/ency/article/001574.htm
+URL_SPANISH=http\://www.nlm.nih.gov/medlineplus/spanish/ency/article/001574.htm
+TEXT_7=A blood test can be done to see if a person is protected against rubella. All women who may become pregnant should have this test. If the test is negative, they will receive the vaccine.
+TEXT_6=A nasal or throat swab may be sent for culture.
+TEXT_5=Muscle or joint pain
+TEXT_4=Inflammation of the eyes (bloodshot eyes)
+TEXT_3=Bruising (rare)
+TEXT_2=Other symptoms may include\:
+TEXT_1=malaise
+NAME=Rubeola
+TEXT_0=Children generally have few symptoms. Adults may experience a fever, headache, general discomfort (), and a runny nose before the rash appears. They may not notice the symptoms.

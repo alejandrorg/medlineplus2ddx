@@ -1,0 +1,245 @@
+Name: Anthrax
+ID: C0003175
+Semantic types: dsyn
+
+
+Name: Disease due to infection
+ID: C0009450
+Semantic types: dsyn
+
+
+Name: Infection, NOS
+ID: C0009450
+Semantic types: dsyn
+
+
+Name: Cutaneous anthrax
+ID: C0003177
+Semantic types: dsyn
+
+
+Name: Inhalation anthrax
+ID: C0155866
+Semantic types: dsyn
+
+
+Name: Disease
+ID: C0012634
+Semantic types: dsyn
+
+
+Name: Swelling
+ID: C0038999
+Semantic types: fndg
+
+
+Name: used
+ID: C1273517
+Semantic types: fndg
+
+
+Name: cutaneous symptom
+ID: C0586407
+Semantic types: sosy
+
+
+Name: Itchy
+ID: C0033774
+Semantic types: sosy
+
+
+Name: sore
+ID: C0234233
+Semantic types: sosy
+
+
+Name: Blister
+ID: C1579830
+Semantic types: fndg
+
+
+Name: Fall
+ID: C0085639
+Semantic types: fndg
+
+
+Name: Fever
+ID: C0015967
+Semantic types: fndg
+
+
+Name: HEAD ACHE
+ID: C0018681
+Semantic types: sosy
+
+
+Name: Cough
+ID: C0010200
+Semantic types: sosy
+
+
+Name: Shortness of Breath
+ID: C0013404
+Semantic types: sosy
+
+
+Name: Breast Pain
+ID: C0024902
+Semantic types: sosy
+
+
+Name: Malaise
+ID: C0231218
+Semantic types: sosy
+
+
+Name: Gastrointestinal symptoms NOS
+ID: C0426576
+Semantic types: sosy
+
+
+Name: Abdominal Pain
+ID: C0000737
+Semantic types: sosy
+
+
+Name: Bloody diarrhea
+ID: C0151594
+Semantic types: dsyn
+
+
+Name: Diarrhea
+ID: C0011991
+Semantic types: sosy
+
+
+Name: oral sores
+ID: C0149745
+Semantic types: dsyn
+
+
+Name: Nausea
+ID: C0027497
+Semantic types: sosy
+
+
+Name: Vomiting
+ID: C0042963
+Semantic types: sosy
+
+
+Name: vomit
+ID: C0042963
+Semantic types: sosy
+
+
+Name: Test
+ID: C0022885
+Semantic types: lbpr
+
+
+Name: Tests
+ID: C0022885
+Semantic types: lbpr
+
+
+Name: Culture
+ID: C0430400
+Semantic types: lbpr
+
+
+Name: sore on skin
+ID: C0037299
+Semantic types: dsyn
+
+
+Name: Biopsy
+ID: C0005558
+Semantic types: diap
+
+
+Name: Blood culture
+ID: C0200949
+Semantic types: lbpr
+
+
+Name: chest ct scan
+ID: C0202823
+Semantic types: diap
+
+
+Name: Chest X-ray
+ID: C0039985
+Semantic types: diap
+
+
+Name: Spinal Tap
+ID: C0037943
+Semantic types: diap, topp
+
+
+Name: Sputum culture
+ID: C0523174
+Semantic types: lbpr
+
+
+Name: PCR
+ID: C0032520
+Semantic types: lbpr, mbrt
+
+
+Name: Immunofluorescence
+ID: C0016318
+Semantic types: lbpr
+
+
+Name: Immunohistochemistry
+ID: C0021044
+Semantic types: diap
+
+
+Name: Inhalational anthrax
+ID: C0155866
+Semantic types: dsyn
+
+
+Name: Gastrointestinal Infection
+ID: C1264613
+Semantic types: dsyn
+
+
+Name: Death, NOS
+ID: C1306577
+Semantic types: fndg
+
+
+Name: NO SYMPTOMS
+ID: C0231221
+Semantic types: fndg
+
+
+Name: anthrax exposed
+ID: C0421160
+Semantic types: fndg
+
+
+Name: WOOLSORTER DISEASE
+ID: C0155866
+Semantic types: dsyn
+
+
+Name: ai
+ID: C0003504
+Semantic types: dsyn
+
+
+Name: Infectious Diseases
+ID: C0009450
+Semantic types: dsyn
+
+
+Name: Infectious disease
+ID: C0009450
+Semantic types: dsyn
+
+

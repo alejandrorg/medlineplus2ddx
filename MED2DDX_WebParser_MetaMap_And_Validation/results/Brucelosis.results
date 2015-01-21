@@ -1,0 +1,255 @@
+Name: Brucellosis
+ID: C0006309
+Semantic types: dsyn
+
+
+Name: Infectious disease
+ID: C0009450
+Semantic types: dsyn
+
+
+Name: carry
+ID: C0699809
+Semantic types: fndg
+
+
+Name: Placenta infected
+ID: C0566701
+Semantic types: fndg
+
+
+Name: mild symptoms
+ID: C0436343
+Semantic types: fndg
+
+
+Name: Flu
+ID: C0021400
+Semantic types: dsyn
+
+
+Name: Abdominal Pain
+ID: C0000737
+Semantic types: sosy
+
+
+Name: BACKPAIN
+ID: C0004604
+Semantic types: sosy
+
+
+Name: Chills
+ID: C0085593
+Semantic types: sosy
+
+
+Name: Excessive sweating
+ID: C0700590
+Semantic types: sosy
+
+
+Name: Fatigue
+ID: C0015672
+Semantic types: sosy
+
+
+Name: Fever
+ID: C0015967
+Semantic types: fndg
+
+
+Name: HEAD ACHE
+ID: C0018681
+Semantic types: sosy
+
+
+Name: Joint Pain
+ID: C0003862
+Semantic types: sosy
+
+
+Name: Loss of appetite
+ID: C0003123
+Semantic types: dsyn
+
+
+Name: Weakness
+ID: C0004093
+Semantic types: sosy
+
+
+Name: WEIGHTLOSS
+ID: C0043096
+Semantic types: fndg
+
+
+Name: Undulant Fever
+ID: C0006309
+Semantic types: dsyn
+
+
+Name: Fall
+ID: C0085639
+Semantic types: fndg
+
+
+Name: Disease
+ID: C0012634
+Semantic types: dsyn
+
+
+Name: Muscle Pain
+ID: C0231528
+Semantic types: sosy
+
+
+Name: SWOLLEN GLANDS
+ID: C0497156
+Semantic types: fndg
+
+
+Name: Illness
+ID: C0221423
+Semantic types: fndg
+
+
+Name: Test
+ID: C0022885
+Semantic types: lbpr
+
+
+Name: Blood culture
+ID: C0200949
+Semantic types: lbpr
+
+
+Name: Bone marrow culture
+ID: C1254426
+Semantic types: lbpr
+
+
+Name: Catch
+ID: C0231617
+Semantic types: sosy
+
+
+Name: Urine culture
+ID: C0430404
+Semantic types: lbpr
+
+
+Name: csf culture
+ID: C0430403
+Semantic types: lbpr
+
+
+Name: Serology
+ID: C0455278
+Semantic types: lbpr
+
+
+Name: Biopsy
+ID: C0005558
+Semantic types: diap
+
+
+Name: specimen culture
+ID: C0430400
+Semantic types: lbpr
+
+
+Name: test results
+ID: C0456984
+Semantic types: fndg
+
+
+Name: Febrile
+ID: C0015967
+Semantic types: fndg
+
+
+Name: Nephelometry
+ID: C0027692
+Semantic types: lbpr
+
+
+Name: Immunoglobulins NOS
+ID: C0202081
+Semantic types: lbpr
+
+
+Name: Serum immunoelectrophoresis
+ID: C0036807
+Semantic types: lbpr
+
+
+Name: used
+ID: C1273517
+Semantic types: fndg
+
+
+Name: Infection, NOS
+ID: C0009450
+Semantic types: dsyn
+
+
+Name: Tuberculosis
+ID: C0041296
+Semantic types: dsyn
+
+
+Name: sore
+ID: C0234233
+Semantic types: sosy
+
+
+Name: Worse
+ID: C1279889
+Semantic types: fndg
+
+
+Name: detect
+ID: C0442726
+Semantic types: fndg
+
+
+Name: infection source
+ID: C0449426
+Semantic types: fndg
+
+
+Name: Cyprus Fever
+ID: C0006309
+Semantic types: dsyn
+
+
+Name: Gibraltar Fever
+ID: C0006309
+Semantic types: dsyn
+
+
+Name: Malta Fever
+ID: C0006309
+Semantic types: dsyn
+
+
+Name: Mediterranean fever
+ID: C0006309
+Semantic types: dsyn
+
+
+Name: Diseases
+ID: C0012634
+Semantic types: dsyn
+
+
+Name: healthiness
+ID: C0031206
+Semantic types: fndg
+
+
+Name: Bacterial Infections
+ID: C0004623
+Semantic types: dsyn
+
+

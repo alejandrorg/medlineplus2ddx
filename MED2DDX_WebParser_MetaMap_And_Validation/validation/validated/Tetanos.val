@@ -1,0 +1,47 @@
+Lock Jaw:
+	Lock jaw {JAW LOCK}!CSSO Ontology!Equals
+	Trismus!MeSH!CUI
+
+back muscle spasms:
+	Muscle Spasms {MUSCLE SPASMS}!Freebase!Equals
+
+Opisthotonos:
+	Opisthotonus!Freebase!CUI
+
+Breathing Problems:
+	Breathing problems {BREATHING PROBLEMS}!Freebase!Equals
+	Unspecified abnormalities of breathing!ICD10CM!CUI
+	Respiratory abnormality, unspecified!ICD9CM!CUI
+
+Painful:
+	Pain!Freebase!CUI
+	Pain, unspecified!ICD10CM!CUI
+
+Drooling:
+	Drooling!Freebase!CUI
+
+Excessive sweating:
+	Excessive sweating {EXCESSIVE SWEATING}!Freebase!Equals
+	Hyperhidrosis!Freebase!CUI
+	Generalized hyperhidrosis!ICD10CM!CUI
+
+Fever:
+	Fever!Freebase!CUI
+	Fever, unspecified!ICD10CM!CUI
+	Fever, unspecified!ICD9CM!CUI
+	fever {FEVER}!Symptoms Ontology!Equals
+	Fever {FEVER}!TM Signs and Symptoms Ontology!Equals
+
+Irritability:
+	Irritability!CSSO Ontology!CUI
+	Irritability!Freebase!CUI
+
+SWALLOWING DIFFICULTY:
+	Dysphagia!CSSO Ontology!CUI
+	Dysphagia!Freebase!CUI
+	Dysphagia, unspecified!ICD10CM!CUI
+	Dysphagia, unspecified!ICD9CM!CUI
+
+Lab Test:
+	LA test {LA TEST}!Freebase!Similarity
+

@@ -1,0 +1,27 @@
+Hepatitis!C0019158!dsyn
+condition!C0012634!dsyn
+Liver Failure!C0085605!dsyn
+illnesses!C0221423!fndg
+Hepatitis A!C0019159!dsyn
+chronic hepatic!C0341439!dsyn
+Pain!C0030193!sosy
+Bloating!C1291077!sosy
+Dark urine!C0426396!sosy
+Pale!C0030232!sosy
+Clay-colored stools!C0232720!fndg
+Fatigue!C0015672!sosy
+Fever!C0015967!fndg
+Itching!C0033774!sosy
+skin yellowing!C0558148!fndg
+Loss of appetite!C0003123!dsyn
+Nausea!C0027497!sosy
+Vomiting!C0042963!sosy
+WEIGHTLOSS!C0043096!fndg
+Hepatitis B!C0019163!dsyn
+tender liver!C0151767!sosy
+Ascites!C0003962!dsyn
+Labs!C0587081!fndg
+Test!C0022885!lbpr
+ultrasound of abdomen!C0203464!diap
+Liver Function Tests!C0023901!lbpr
+Liver Biopsy!C0193388!diap

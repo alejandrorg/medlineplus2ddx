@@ -1,0 +1,122 @@
+Chills:
+	Chills!CSSO Ontology!CUI
+	Chills {CHILLS}!Freebase!Equals
+	Chills (without fever)!ICD10CM!CUI
+	Chills!MeSH!CUI
+
+Confusion:
+	Confusion {CONFUSION}!CSSO Ontology!Equals
+	Contusion {CONTUSION}!Freebase!Similarity
+	Confusion {CONFUSION}!Freebase!Equals
+	confusion {CONFUSION}!Wikipedia!Equals
+
+Fever:
+	Fever!Freebase!CUI
+	Fever, unspecified!ICD10CM!CUI
+	Fever, unspecified!ICD9CM!CUI
+	fever {FEVER}!Symptoms Ontology!Equals
+	Fever {FEVER}!TM Signs and Symptoms Ontology!Equals
+
+HEAD ACHE:
+	Headache!Freebase!CUI
+	Headache!ICD10CM!CUI
+	Headache!ICD9CM!CUI
+
+Muscle Pain:
+	Myalgia!CSSO Ontology!CUI
+	Muscle pain!Freebase!CUI
+
+Rash:
+	Skin rash!Freebase!CUI
+	Rash and other nonspecific skin eruption!ICD10CM!CUI
+	Rash and other nonspecific skin eruption!ICD9CM!CUI
+	rash {RASH}!Wikipedia!Equals
+
+spots:
+	Skin rash!Freebase!CUI
+	Rash and other nonspecific skin eruption!ICD10CM!CUI
+	Rash and other nonspecific skin eruption!ICD9CM!CUI
+
+Diarrhea:
+	Diarrhea!Freebase!CUI
+	Diarrhea, unspecified!ICD10CM!CUI
+	Diarrhea!ICD9CM!CUI
+	diarrhea {DIARRHEA}!TM Signs and Symptoms Ontology!Equals
+	diarrhea {DIARRHEA}!Wikipedia!Equals
+
+Light Sensitivity:
+	Photophobia!CSSO Ontology!CUI
+	Photophobia!Freebase!CUI
+	Light sensitivity {LIGHT SENSITIVITY}!Freebase!Equals
+	Photophobia!MeSH!CUI
+
+Loss of appetite:
+	Anorexia!CSSO Ontology!CUI
+	Anorexia!Freebase!CUI
+	Anorexia!ICD10CM!CUI
+	Anorexia!ICD9CM!CUI
+	Anorexia!MeSH!CUI
+	loss of appetite {APPETITE LOSS}!Wikipedia!Equals
+
+Nausea:
+	Nausea!CSSO Ontology!CUI
+	Nausea!Freebase!CUI
+	Nausea {NAUSEA}!ICD10CM!Equals
+	Nausea!ICD10CM!CUI
+	Nausea alone {NAUSEA}!ICD9CM!Equals
+	nausea {NAUSEA}!Symptoms Ontology!Equals
+	nausea {NAUSEA}!TM Signs and Symptoms Ontology!Equals
+	nausea {NAUSEA}!Wikipedia!Equals
+
+Vomiting:
+	Vomiting!Freebase!CUI
+	Vomiting, unspecified!ICD10CM!CUI
+	Vomiting alone {VOMITING}!ICD9CM!Equals
+	vomiting {VOMITING}!Symptoms Ontology!Equals
+	vomiting {VOMITING}!TM Signs and Symptoms Ontology!Equals
+	vomiting {VOMITING}!Wikipedia!Equals
+
+Immunofluorescence:
+	Immunofluorescence {IMMUNOFLUORESCENCE}!Freebase!Equals
+
+CBC:
+	CBC {CBC}!MediciNet!Equals
+	CBC {CBC}!MediciNet!Equals
+
+Complete Blood Count:
+	Complete blood count {BLOOD COMPLETE COUNT}!Freebase!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+	Complete Blood Count {BLOOD COMPLETE COUNT}!MediciNet!Equals
+
+Partial Thromboplastin Time:
+	Partial thromboplastin time {PARTIAL THROMBOPLASTIN TIME}!Freebase!Equals
+
+Time, Prothrombin:
+	Prothrombin time {PROTHROMBIN TIME}!Freebase!Equals
+
+Skin biopsy:
+	Skin biopsy {BIOPSY SKIN}!Freebase!Equals
+	Skin Biopsy {BIOPSY SKIN}!MediciNet!Equals
+
+Urinalysis:
+	Urinalysis {URINALYSIS}!Freebase!Equals
+	Urinalysis {URINALYSIS}!MediciNet!Equals
+	Urinalysis {URINALYSIS}!MediciNet!Equals
+	Urinalysis {URINALYSIS}!MediciNet!Equals
+
