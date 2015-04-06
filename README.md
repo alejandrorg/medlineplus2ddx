@@ -18,7 +18,9 @@ and validate the terms extracted by the NLP process using the terms extracted by
 Interesting files and folders:
 <ul>
 <li>Results.xlsx: Contains the raw results of the evaluation. Detailed results are in PACBB paper.</li>
+</br>
 <ul>
+</br>
 <p>CNV module files and folders</p>
 <li>cnv_data/diseases.lst: Contains the list of diseases to retrieve/retrieved. Current version contains a set of 30 infectious diseases.</li>
 <li>cnv_data/diseases_findings/*: Contains a .dis file for each disease. It contains the terms returned by the NLP process from the text associated to the disease.</li>
@@ -27,6 +29,7 @@ Interesting files and folders:
 <li>cnv_data/validation/not_validated/*: Contains a .val file for each disease. The content of each file are the terms extracted by NLP process but NOT validated with the VTE terms.</li>
 </ul>
 <ul>
+</br>
 <p>VTE module files and folders</p>
 <li>vte_data/onts/*: Contains the ontology files of sources which contains validation terms in an ontology.</li>
 <li>vte_data/temp_findings/*: Each .fds file contains the terms to use in the validation of a given source.</li>
