@@ -22,6 +22,7 @@ Interesting files and folders:
 <ul>
 </br>
 <p>CNV module files and folders</p>
+</br>
 <li>cnv_data/diseases.lst: Contains the list of diseases to retrieve/retrieved. Current version contains a set of 30 infectious diseases.</li>
 <li>cnv_data/diseases_findings/*: Contains a .dis file for each disease. It contains the terms returned by the NLP process from the text associated to the disease.</li>
 <li>cnv_data/diseasesData/*: Contains a .dis file for each disease. It contains the raw text (in a Properties file) extracted by the crawler.</li>
@@ -31,6 +32,7 @@ Interesting files and folders:
 <ul>
 </br>
 <p>VTE module files and folders</p>
+</br>
 <li>vte_data/onts/*: Contains the ontology files of sources which contains validation terms in an ontology.</li>
 <li>vte_data/temp_findings/*: Each .fds file contains the terms to use in the validation of a given source.</li>
 <li>vte_data/sparql/*: Contains the SPARQL files with the queries to be performed in some sources.</li>
