@@ -1,14 +1,36 @@
-# medline2ddx
-MedLine2DDx is a research project to extract diagnosis terms from MedLine webpages.
+# medlineplus2ddx
 
-diseasesList.txt: Contains the list of diseases used (with its MedLine URL).
-Results.xlsx: Contains the raw results of the evaluation.
+MedLinePlus2DDx is a research project to extract diagnosis terms from MedLine webpages.
 
-medline2ddx has been divided in two different projects:
+Current version contains a merge of two modules:
 
-MED2DDX_Findings_Extractor: Is the project in charge of generate the list of "validation terms".
-MED2DDX_WebParser_MetaMap_And_Validation: Is the project in charge of:
+<b>VTE (Validation Terms Extractor):</b>
 
-1) Web parser/scrapper: Obtain the text from the MedLine webpages.
-2) MetaMap: It executes MetaMap NLP process. It create the list of terms (NLP terms) extracted.
-3) Validation: Once we have "validation terms" and "NLP terms" it performs the validation of NLP terms against validation terms.
+This module is in charge of obtain the terms that are going to be used to validate the concepts extracted by CNV module.
+
+It retrieves terms from several sources (reliable, research and collaborative).
+
+<b>CNV (Crawler, NLP and Validation):</b>
+
+This module extracts the text from MedlinePlus diseases webpages (crawler), performs NLP (currently with MetaMap)
+and validate the terms extracted by the NLP process using the terms extracted by VTE module.
+
+Interesting files and folders:
+<ul>
+<li>Results.xlsx: Contains the raw results of the evaluation. Detailed results are in PACBB paper.</li>
+<ul>
+<p>CNV module files and folders</p>
+<li>cnv_data/diseases.lst: Contains the list of diseases to retrieve/retrieved. Current version contains a set of 30 infectious diseases.</li>
+<li>cnv_data/diseases_findings/*: Contains a .dis file for each disease. It contains the terms returned by the NLP process from the text associated to the disease.</li>
+<li>cnv_data/diseasesData/*: Contains a .dis file for each disease. It contains the raw text (in a Properties file) extracted by the crawler.</li>
+<li>cnv_data/validation/validated/*: Contains a .val file for each disease. The content of each file are the terms extracted by NLP process and validated with the VTE terms.</li>
+<li>cnv_data/validation/not_validated/*: Contains a .val file for each disease. The content of each file are the terms extracted by NLP process but NOT validated with the VTE terms.</li>
+</ul>
+<ul>
+<p>VTE module files and folders</p>
+<li>vte_data/onts/*: Contains the ontology files of sources which contains validation terms in an ontology.</li>
+<li>vte_data/temp_findings/*: Each .fds file contains the terms to use in the validation of a given source.</li>
+<li>vte_data/sparql/*: Contains the SPARQL files with the queries to be performed in some sources.</li>
+<li>vte_data/results/allFindings.fd: Contains all the findings extracted from the different sources.</li>
+</ul>
+</ul>
