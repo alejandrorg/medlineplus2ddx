@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/vte/jena/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/commons-csv-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/httpclient-4.2.6.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/httpclient-cache-4.2.6.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/httpcore-4.2.5.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/jackson-annotations-2.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/jackson-core-2.3.3.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/jackson-databind-2.3.3.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/jcl-over-slf4j-1.7.6.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/jena-arq-2.12.1.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/jena-core-2.12.1.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/jena-iri-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/jena-sdb-1.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/jena-tdb-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/jsonld-java-0.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/libthrift-0.9.1.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/slf4j-log4j12-1.7.6.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="lib/vte/jena/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="lib/cnv/metamap/MetaMapApi.jar"/>
+	<classpathentry kind="lib" path="lib/cnv/metamap/prologbeans.jar"/>
+	<classpathentry kind="lib" path="lib/cnv/simmetrics/simmetrics_jar_v1_6_2_d07_02_07.jar"/>
+	<classpathentry kind="lib" path="lib/cnv/jsoup-1.7.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
