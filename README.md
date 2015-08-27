@@ -17,7 +17,8 @@ and validate the terms extracted by the NLP process using the terms extracted by
 
 Interesting files and folders:
 <ul>
-<li>Results.xlsx: Contains the raw results of the evaluation. Detailed results are in PACBB paper.</br></li>
+<li>MetaMap.xlsx: Contains the raw results of the evaluation using MetaMap. Detailed results are in PACBB paper.</br></li>
+<li>cTAKES.xlsx: Contains the raw results of the evaluation using cTAKES. Detailed results are in CBio paper.</br></li>
 </ul>
 </br>
 <p>CNV module files and folders</br></p>
