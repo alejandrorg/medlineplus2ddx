@@ -31,8 +31,9 @@ public class MedlinePlusCrawler extends GenericCrawler {
 	 */
 
 	public Disease loadTextFromURL(String url, Disease disease) throws Exception {
+		System.out.println("Processing disease [" + disease.getName() + "]: " + url);
 		Document doc = Jsoup.connect(url).get();
-		Elements els = doc.select("h2.subheading");
+		Elements els = doc.select("h2");
 		for (int i = 0; i < els.size(); i++) {
 			Element el = els.get(i);
 			if (el.text().equalsIgnoreCase(SYMPTOMS_ELEMENT)

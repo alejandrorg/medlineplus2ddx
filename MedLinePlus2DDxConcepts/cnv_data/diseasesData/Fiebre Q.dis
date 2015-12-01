@@ -1,31 +1,31 @@
 #
-#Sat Oct 25 17:34:19 CEST 2014
-TEXT_24=Q fever is diagnosed with a blood antibody test (serology).
+#Mon Aug 03 14:00:09 CEST 2015
+TEXT_24=Q fever is diagnosed with a blood antibody test.
 TEXT_23=Pneumonia
-TEXT_22=Hepatitis
+TEXT_22=Inflammation of the liver
 TEXT_21=Flu-like symptoms
-TEXT_20=Endocarditis
+TEXT_20=Inflammation of the inside lining of the heart and heart valves
 URL_SPANISH=http\://www.nlm.nih.gov/medlineplus/spanish/ency/article/001337.htm
 NAME=Fiebre Q
 TEXT_9=Chest pain
 TEXT_8=Abdominal pain
 TEXT_7=Other symptoms may include\:
-TEXT_6=Muscle pains
+TEXT_6=Muscle pain
 TEXT_5=Joint pain
 TEXT_4=Headache
 TEXT_3=Fever
 TEXT_2=Dry cough
-TEXT_1=Common symptoms of acute Q fever may include\:
+TEXT_1=Common symptoms of early-stage (acute) Q fever may include\:
 TEXT_0=It usually takes about 20 days after exposure to the bacteria for symptoms to occur. Most cases are mild, yet some severe cases have been reported.
 NUMBER_TEXTS=25
 TEXT_19=Coxiella burnetii
-TEXT_18=The health care provider will suspect Q fever in people who have been exposed to the bacteria who develop\:
+TEXT_18=A health care provider will suspect Q fever in people who have been exposed to the bacteria who develop\:
 TEXT_17=Shortness of breath
 URL_ENGLISH=http\://www.nlm.nih.gov/medlineplus/ency/article/001337.htm
 TEXT_16=Prolonged fever
 TEXT_15=Night sweats
 TEXT_14=Fatigue
 TEXT_13=Chills
-TEXT_12=Symptoms of chronic Q fever may include\:
+TEXT_12=Symptoms of long-term (chronic) Q fever may include\:
 TEXT_11=Yellow skin (jaundice)
 TEXT_10=Rash

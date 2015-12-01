@@ -1,5 +1,5 @@
 #
-#Sat Oct 25 17:34:17 CEST 2014
+#Mon Aug 03 14:00:08 CEST 2015
 TEXT_25=Urinalysis
 TEXT_24=Liver enzymes
 TEXT_23=Creatine kinase
@@ -17,7 +17,7 @@ TEXT_4=Muscle pain
 TEXT_3=Headache
 TEXT_2=Fever
 TEXT_1=Dry cough
-TEXT_0=Symptoms can take 2 - 26 days (average 10 days) to develop, and may include\:
+TEXT_0=Symptoms can take 2\u00A0to 26 days (average 10 days) to develop, and may include\:
 NUMBER_TEXTS=26
 TEXT_19=The blood is tested for antibodies to the bacteria.
 TEXT_18=Sore throat

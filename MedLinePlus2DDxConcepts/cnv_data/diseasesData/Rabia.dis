@@ -1,6 +1,6 @@
 #
-#Sat Oct 25 17:34:22 CEST 2014
-TEXT_20=A spinal tap may be done to look for signs of the infection in your spinal fluid
+#Mon Aug 03 14:00:12 CEST 2015
+TEXT_20=A spinal tap may be done to look for signs of the infection in your spinal fluid.
 URL_SPANISH=http\://www.nlm.nih.gov/medlineplus/spanish/ency/article/001334.htm
 NAME=Rabia
 TEXT_9=fever
@@ -12,11 +12,11 @@ TEXT_4=Exaggerated sensation at the bite site
 TEXT_3=Convulsions
 TEXT_2=Drooling
 TEXT_1=Symptoms may include\:
-TEXT_0=The actual time between infection and when you get sick\u00A0 ranges from 10 days - 7 years. This is called the incubation period. The average\u00A0period is 3 -\u00A012 weeks.
+TEXT_0=The time between infection and when you get sick ranges from 10 days - 7 years. This time period is called the incubation period. The average incubation period is 3 -\u00A012 weeks.
 NUMBER_TEXTS=21
-TEXT_19=The same test used on animals can be done to check for rabies in humans, using a piece of skin from the neck. Doctors may also look for the rabies virus in your saliva or spinal fluid, although these tests are not as sensitive and may need to be repeated.
-TEXT_18=The doctor or nurse will examine you and look at the bite. The wound will be cleaned and\u00A0treated as appropriate.
-TEXT_17=A special test called immunofluorescence is used to look at the brain tissue after an animal is dead. This test can reveal whether or not the animal had rabies.
+TEXT_19=The same test used on animals can be done to check for rabies in humans. The test uses a piece of skin from the neck. Doctors may also look for the rabies virus in your saliva or spinal fluid, although these tests are not as sensitive and may need to be repeated.
+TEXT_18=The doctor or nurse will examine you and look at the bite. The wound will be cleaned and treated as appropriate.
+TEXT_17=A special test called immunofluorescence is used to look at the brain tissue after an animal is dead. This test can reveal whether the animal had rabies.
 URL_ENGLISH=http\://www.nlm.nih.gov/medlineplus/ency/article/001334.htm
 TEXT_16=If an animal bites you, try to gather as much information about the animal as possible. Call your local animal control authorities to safely capture the animal. If rabies is suspected, the animal will be watched for signs of rabies.
 TEXT_15=spasms

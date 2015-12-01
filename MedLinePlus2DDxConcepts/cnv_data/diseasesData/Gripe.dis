@@ -1,11 +1,11 @@
 #
-#Sat Oct 25 17:34:21 CEST 2014
-TEXT_25=health care provider decide the best treatment
+#Mon Aug 03 14:00:11 CEST 2015
+TEXT_25=health care provider prescribe the best treatment
 TEXT_24=There is a test to detect the flu. It is done by swabbing the nose or throat. Most of the time, test results are available very fast. The test can help your .
 TEXT_23=When many people in an area have flu, a health care provider can make a diagnosis after hearing about your symptoms. No further testing is needed.
 TEXT_22=If you are very sick with the flu, you may want to see your health care provider. People who are at high risk for flu complications may also want to see a health care provider if they get the flu.
 TEXT_21=Most people do not need to see a health care provider when they have flu symptoms. This is because most people are not at risk for a severe case of the flu.
-TEXT_20=The flu can make asthma, breathing problems, and other long-term illnesses worse.
+TEXT_20=The flu can make asthma, breathing problems, and other long-term illnesses and conditions\u00A0worse.
 URL_SPANISH=http\://www.nlm.nih.gov/medlineplus/spanish/ency/article/000080.htm
 NAME=Gripe
 TEXT_9=Headache
@@ -15,18 +15,18 @@ TEXT_6=Chills
 TEXT_5=Body aches
 TEXT_4=Other common symptoms include\:
 TEXT_3=fever
-TEXT_2=The first symptom is a between 102 and 106 \u00B0F. An adult usually has a lower fever than a child.
-TEXT_1=The flu spreads easily. It can affect a large group of people in a very short amount of time. For example, students and workers get sick within 2 or 3 weeks of the flu's arrival in a school or workplace.
-TEXT_0=Flu symptoms will often start quickly. You can start to feel sick about 1-7 days after you come in contact with the virus. Most of the time symptoms appear in 2-3 days.
+TEXT_2=The first symptom is a between 102 and 106\u00B0F. An adult often has a lower fever than a child.
+TEXT_1=The flu spreads easily. It can affect a large group of people in a very short amount of time. For example, students and co-workers get sick within 2 or 3 weeks of the flu's arrival in a school or workplace.
+TEXT_0=Flu symptoms will often start quickly. You can start to feel sick about 1 to 7 days after you come in contact with the virus. Most of the time symptoms appear within 2-3 days.
 NUMBER_TEXTS=26
 TEXT_19=Some people may not feel like eating.
-TEXT_18=Most symptoms go away in 4-7 days. The cough and tired feeling may last for weeks. Sometimes, the fever comes back.
+TEXT_18=Most symptoms go away in 4 to 7 days. The cough and tired feeling may last for weeks. Sometimes, the fever comes back.
 TEXT_17=Sore throat
 URL_ENGLISH=http\://www.nlm.nih.gov/medlineplus/ency/article/000080.htm
 TEXT_16=Sneezing
 TEXT_15=Runny nose (clear and watery)
-TEXT_14=Increased breathing symptoms
+TEXT_14=Increased symptoms that affect breathing
 TEXT_13=Dry cough
-TEXT_12=The fever and aches and pains begin to go away on days 2 through 4. But new symptoms occur, including\:
+TEXT_12=The fever, aches, and pains begin to go away on days 2 through 4. But new symptoms occur, including\:
 TEXT_11=Nausea and vomiting
 TEXT_10=Lack of energy
