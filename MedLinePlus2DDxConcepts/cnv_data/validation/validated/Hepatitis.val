@@ -1,0 +1,104 @@
+illnesses:
+	Illness, unspecified!ICD10CM!CUI
+
+Pain:
+	Back pain {PAIN}!Freebase!Equals
+	Side pain {PAIN}!Freebase!Equals
+	Pain!Freebase!CUI
+	Side pain {PAIN}!Freebase!Equals
+	Pain, unspecified!ICD10CM!CUI
+	empty pain {PAIN}!TM Signs and Symptoms Ontology!Equals
+	back pain {PAIN}!TM Signs and Symptoms Ontology!Equals
+	pain {PAIN}!Wikipedia!Equals
+
+Bloating:
+	Flatulence!Freebase!CUI
+	Abdominal distension (gaseous)!ICD10CM!CUI
+	bloating {BLOATING}!Wikipedia!Equals
+
+Dark urine:
+	Dark urine!Freebase!CUI
+
+Pale:
+	Pallor!Freebase!CUI
+	Pallor!ICD10CM!CUI
+	Pallor!ICD9CM!CUI
+	Pallor!MeSH!CUI
+
+Clay-colored stools:
+	Pale feces!Freebase!CUI
+
+Fatigue:
+	Fatigue!CSSO Ontology!CUI
+	Fatigue!Freebase!CUI
+	Fatigue {FATIGUE}!Freebase!Equals
+	Other fatigue!ICD10CM!CUI
+	Other fatigue {FATIGUE}!ICD10CM!Equals
+	Other fatigue {FATIGUE}!ICD10CM!Equals
+	fatigue {FATIGUE}!Symptoms Ontology!Equals
+	fatigue {FATIGUE}!Wikipedia!Equals
+
+Fever:
+	Fever!Freebase!CUI
+	Fever, unspecified!ICD10CM!CUI
+	Fever, unspecified!ICD9CM!CUI
+	fever {FEVER}!Symptoms Ontology!Equals
+	Fever {FEVER}!TM Signs and Symptoms Ontology!Equals
+
+Itching:
+	Itching!CSSO Ontology!CUI
+	Pruritus!Freebase!CUI
+	itching {ITCHING}!Wikipedia!Equals
+
+Loss of appetite:
+	Anorexia!CSSO Ontology!CUI
+	Anorexia!Freebase!CUI
+	Anorexia!ICD10CM!CUI
+	Anorexia!ICD9CM!CUI
+	Anorexia!MeSH!CUI
+	loss of appetite {APPETITE LOSS}!Wikipedia!Equals
+
+Nausea:
+	Nausea!CSSO Ontology!CUI
+	Nausea!Freebase!CUI
+	Nausea {NAUSEA}!ICD10CM!Equals
+	Nausea!ICD10CM!CUI
+	Nausea alone {NAUSEA}!ICD9CM!Equals
+	nausea {NAUSEA}!Symptoms Ontology!Equals
+	nausea {NAUSEA}!TM Signs and Symptoms Ontology!Equals
+	nausea {NAUSEA}!Wikipedia!Equals
+
+Vomiting:
+	Vomiting!Freebase!CUI
+	Vomiting, unspecified!ICD10CM!CUI
+	Vomiting alone {VOMITING}!ICD9CM!Equals
+	vomiting {VOMITING}!Symptoms Ontology!Equals
+	vomiting {VOMITING}!TM Signs and Symptoms Ontology!Equals
+	vomiting {VOMITING}!Wikipedia!Equals
+
+WEIGHTLOSS:
+	Weight loss!CSSO Ontology!CUI
+	Weight loss!Freebase!CUI
+	Loss of weight!ICD9CM!CUI
+
+Ascites:
+	Ascites!CSSO Ontology!CUI
+	Ascites!Freebase!CUI
+	Other ascites {ASCITES}!ICD10CM!Equals
+	Other ascites!ICD10CM!CUI
+	Other ascites {ASCITES}!ICD10CM!Equals
+	Other ascites {ASCITES}!ICD9CM!Equals
+	Ascites {ASCITES}!TM Signs and Symptoms Ontology!Equals
+
+Liver Function Tests:
+	Liver function tests {FUNCTION LIVER TESTS}!Freebase!Equals
+	Liver Function Tests!MeSH!CUI
+
+Liver Biopsy:
+	Liver biopsy {BIOPSY LIVER}!Freebase!Equals
+	Biopsy, Liver {BIOPSY LIVER}!MediciNet!Equals
+	Liver Biopsy {BIOPSY LIVER}!MediciNet!Equals
+	Liver Biopsy {BIOPSY LIVER}!MediciNet!Equals
+	Liver Biopsy {BIOPSY LIVER}!MediciNet!Equals
+	Liver Biopsy {BIOPSY LIVER}!MediciNet!Equals
+

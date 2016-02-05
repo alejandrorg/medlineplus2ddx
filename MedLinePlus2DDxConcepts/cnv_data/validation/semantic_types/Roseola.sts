@@ -1,0 +1,31 @@
+VALIDATED TERMS
+
+eye redness!C0235267!sosy
+Irritability!C0022107!fndg
+Runny nose!C1260880!sosy
+sore throat!C0031350!dsyn
+SORETHROAT!C0242429!sosy
+Fever!C0015967!fndg
+Rash!C0015230!dsyn
+sore!C0234233!sosy
+Itch!C0033774!sosy
+Swollen lymph nodes!C0497156!fndg
+Swollen!C0038999!fndg
+
+
+Summary
+
+	fndg = 4
+	dsyn = 2
+	sosy = 5
+
+
+NOT VALIDATED TERMS
+
+Incubation period!C1320226!fndg
+Medical History!C0262926!fndg
+
+
+Summary
+
+	fndg = 2

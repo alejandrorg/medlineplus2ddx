@@ -1,0 +1,158 @@
+Rash:
+	Skin rash!Freebase!CUI
+	Rash and other nonspecific skin eruption!ICD10CM!CUI
+	Rash and other nonspecific skin eruption!ICD9CM!CUI
+	rash {RASH}!Wikipedia!Equals
+
+macules:
+	Macule!Freebase!CUI
+
+papules:
+	Papule!CSSO Ontology!CUI
+	Papule!Freebase!CUI
+
+Itch:
+	Itching!CSSO Ontology!CUI
+	Pruritus!Freebase!CUI
+
+Cough:
+	Cough!Freebase!CUI
+	Cough!ICD10CM!CUI
+	Cough!ICD9CM!CUI
+	Cough!MeSH!CUI
+	Cough {COUGH}!TM Signs and Symptoms Ontology!Equals
+	cough {COUGH}!Wikipedia!Equals
+
+Fever:
+	Fever!Freebase!CUI
+	Fever, unspecified!ICD10CM!CUI
+	Fever, unspecified!ICD9CM!CUI
+	fever {FEVER}!Symptoms Ontology!Equals
+	Fever {FEVER}!TM Signs and Symptoms Ontology!Equals
+
+Light Sensitivity:
+	Photophobia!CSSO Ontology!CUI
+	Photophobia!Freebase!CUI
+	Light sensitivity {LIGHT SENSITIVITY}!Freebase!Equals
+	Photophobia!MeSH!CUI
+
+Photophobia:
+	Photophobia!CSSO Ontology!CUI
+	Phonophobia {PHONOPHOBIA}!Freebase!Similarity
+	Photophobia!Freebase!CUI
+	Phonophobia {PHONOPHOBIA}!MeSH!Similarity
+	Photophobia!MeSH!CUI
+
+Muscle Pain:
+	Myalgia!CSSO Ontology!CUI
+	Muscle pain!Freebase!CUI
+
+Conjunctivitis:
+	Conjunctivitis!CSSO Ontology!CUI
+	Conjunctivitis!Freebase!CUI
+
+Runny nose:
+	Runny nose!CSSO Ontology!CUI
+	Runny nose!Freebase!CUI
+
+sore throat:
+	Sore throat {SORE THROAT}!CSSO Ontology!Equals
+	Pharyngitis!Freebase!CUI
+	Sore throat {SORE THROAT}!Freebase!Equals
+
+SORETHROAT:
+	Throat pain!CSSO Ontology!CUI
+	Sore throat!Freebase!CUI
+	Pain in throat!ICD10CM!CUI
+	Throat pain!ICD9CM!CUI
+
+spots:
+	Skin rash!Freebase!CUI
+	Rash and other nonspecific skin eruption!ICD10CM!CUI
+	Rash and other nonspecific skin eruption!ICD9CM!CUI
+
+Koplik spots:
+	Koplik spots {KOPLIK SPOTS}!Freebase!Equals
+
+Serology:
+	Serology {SEROLOGY}!MediciNet!Equals
+
+Rash:
+	Skin rash!Freebase!CUI
+	Rash and other nonspecific skin eruption!ICD10CM!CUI
+	Rash and other nonspecific skin eruption!ICD9CM!CUI
+	rash {RASH}!Wikipedia!Equals
+
+macules:
+	Macule!Freebase!CUI
+
+papules:
+	Papule!CSSO Ontology!CUI
+	Papule!Freebase!CUI
+
+Itch:
+	Itching!CSSO Ontology!CUI
+	Pruritus!Freebase!CUI
+
+Cough:
+	Cough!Freebase!CUI
+	Cough!ICD10CM!CUI
+	Cough!ICD9CM!CUI
+	Cough!MeSH!CUI
+	Cough {COUGH}!TM Signs and Symptoms Ontology!Equals
+	cough {COUGH}!Wikipedia!Equals
+
+Fever:
+	Fever!Freebase!CUI
+	Fever, unspecified!ICD10CM!CUI
+	Fever, unspecified!ICD9CM!CUI
+	fever {FEVER}!Symptoms Ontology!Equals
+	Fever {FEVER}!TM Signs and Symptoms Ontology!Equals
+
+Light Sensitivity:
+	Photophobia!CSSO Ontology!CUI
+	Photophobia!Freebase!CUI
+	Light sensitivity {LIGHT SENSITIVITY}!Freebase!Equals
+	Photophobia!MeSH!CUI
+
+Photophobia:
+	Photophobia!CSSO Ontology!CUI
+	Phonophobia {PHONOPHOBIA}!Freebase!Similarity
+	Photophobia!Freebase!CUI
+	Phonophobia {PHONOPHOBIA}!MeSH!Similarity
+	Photophobia!MeSH!CUI
+
+Muscle Pain:
+	Myalgia!CSSO Ontology!CUI
+	Muscle pain!Freebase!CUI
+
+Conjunctivitis:
+	Conjunctivitis!CSSO Ontology!CUI
+	Conjunctivitis!Freebase!CUI
+
+Runny nose:
+	Runny nose!CSSO Ontology!CUI
+	Runny nose!Freebase!CUI
+
+sore throat:
+	Sore throat {SORE THROAT}!CSSO Ontology!Equals
+	Pharyngitis!Freebase!CUI
+	Sore throat {SORE THROAT}!Freebase!Equals
+
+SORETHROAT:
+	Throat pain!CSSO Ontology!CUI
+	Sore throat!Freebase!CUI
+	Pain in throat!ICD10CM!CUI
+	Throat pain!ICD9CM!CUI
+
+spots:
+	Skin rash!Freebase!CUI
+	Rash and other nonspecific skin eruption!ICD10CM!CUI
+	Rash and other nonspecific skin eruption!ICD9CM!CUI
+
+Koplik spots:
+	Koplik spots {KOPLIK SPOTS}!Freebase!Equals
+
+Serology:
+	Serology {SEROLOGY}!MediciNet!Equals
+

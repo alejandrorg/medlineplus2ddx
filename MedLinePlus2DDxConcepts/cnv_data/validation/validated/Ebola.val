@@ -1,0 +1,85 @@
+Fever:
+	Fever!Freebase!CUI
+	Fever, unspecified!ICD10CM!CUI
+	Fever, unspecified!ICD9CM!CUI
+	fever {FEVER}!Symptoms Ontology!Equals
+	Fever {FEVER}!TM Signs and Symptoms Ontology!Equals
+
+Chills:
+	Chills!CSSO Ontology!CUI
+	Chills {CHILLS}!Freebase!Equals
+	Chills (without fever)!ICD10CM!CUI
+	Chills!MeSH!CUI
+
+HEAD ACHE:
+	Headache!Freebase!CUI
+	Headache!ICD10CM!CUI
+	Headache!ICD9CM!CUI
+
+sore throat:
+	Sore throat {SORE THROAT}!CSSO Ontology!Equals
+	Pharyngitis!Freebase!CUI
+	Sore throat {SORE THROAT}!Freebase!Equals
+
+SORETHROAT:
+	Throat pain!CSSO Ontology!CUI
+	Sore throat!Freebase!CUI
+	Pain in throat!ICD10CM!CUI
+	Throat pain!ICD9CM!CUI
+
+Muscle Pain:
+	Myalgia!CSSO Ontology!CUI
+	Muscle pain!Freebase!CUI
+
+Weakness:
+	Weakness!CSSO Ontology!CUI
+	Asthenia!CSSO Ontology!CUI
+	Asthenia!Freebase!CUI
+	Weakness {WEAKNESS}!Freebase!Equals
+	weekness {WEEKNESS}!Freebase!Similarity
+	Weakness {WEAKNESS}!Freebase!Equals
+	Weakness!ICD10CM!CUI
+	Weakness {WEAKNESS}!ICD10CM!Equals
+	Asthenia!MeSH!CUI
+
+Fatigue:
+	Fatigue!CSSO Ontology!CUI
+	Fatigue!Freebase!CUI
+	Fatigue {FATIGUE}!Freebase!Equals
+	Other fatigue!ICD10CM!CUI
+	Other fatigue {FATIGUE}!ICD10CM!Equals
+	Other fatigue {FATIGUE}!ICD10CM!Equals
+	fatigue {FATIGUE}!Symptoms Ontology!Equals
+	fatigue {FATIGUE}!Wikipedia!Equals
+
+Rash:
+	Skin rash!Freebase!CUI
+	Rash and other nonspecific skin eruption!ICD10CM!CUI
+	Rash and other nonspecific skin eruption!ICD9CM!CUI
+	rash {RASH}!Wikipedia!Equals
+
+Pain:
+	Back pain {PAIN}!Freebase!Equals
+	Side pain {PAIN}!Freebase!Equals
+	Pain!Freebase!CUI
+	Side pain {PAIN}!Freebase!Equals
+	Pain, unspecified!ICD10CM!CUI
+	empty pain {PAIN}!TM Signs and Symptoms Ontology!Equals
+	back pain {PAIN}!TM Signs and Symptoms Ontology!Equals
+	pain {PAIN}!Wikipedia!Equals
+
+Diarrhea:
+	Diarrhea!Freebase!CUI
+	Diarrhea, unspecified!ICD10CM!CUI
+	Diarrhea!ICD9CM!CUI
+	diarrhea {DIARRHEA}!TM Signs and Symptoms Ontology!Equals
+	diarrhea {DIARRHEA}!Wikipedia!Equals
+
+Vomiting:
+	Vomiting!Freebase!CUI
+	Vomiting, unspecified!ICD10CM!CUI
+	Vomiting alone {VOMITING}!ICD9CM!Equals
+	vomiting {VOMITING}!Symptoms Ontology!Equals
+	vomiting {VOMITING}!TM Signs and Symptoms Ontology!Equals
+	vomiting {VOMITING}!Wikipedia!Equals
+

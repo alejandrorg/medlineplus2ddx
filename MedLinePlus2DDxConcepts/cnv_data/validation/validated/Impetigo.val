@@ -1,0 +1,24 @@
+Blister:
+	Blister!Freebase!CUI
+	blister {BLISTER}!Wikipedia!Equals
+
+Itch:
+	Itching!CSSO Ontology!CUI
+	Pruritus!Freebase!CUI
+
+Rash:
+	Skin rash!Freebase!CUI
+	Rash and other nonspecific skin eruption!ICD10CM!CUI
+	Rash and other nonspecific skin eruption!ICD9CM!CUI
+	rash {RASH}!Wikipedia!Equals
+
+skin sores:
+	Skin ulcer!CSSO Ontology!CUI
+	Skin ulcer!Freebase!CUI
+
+Swollen lymph nodes:
+	Swollen lymph nodes!Freebase!CUI
+	Generalized enlarged lymph nodes!ICD10CM!CUI
+	Enlarged lymph nodes, unspecified!ICD10CM!CUI
+	Enlargement of lymph nodes!ICD9CM!CUI
+

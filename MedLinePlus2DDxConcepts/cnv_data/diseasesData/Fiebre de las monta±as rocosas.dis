@@ -1,0 +1,35 @@
+#
+#Mon Aug 03 14:00:12 CEST 2015
+TEXT_28=protein in the urine
+TEXT_27=blood
+TEXT_26=Urinalysis to check for or
+TEXT_25=R. rickettsii
+TEXT_24=Skin biopsy taken from the rash to check for
+TEXT_23=Prothrombin time (PT)
+TEXT_22=Partial thromboplastin time (PTT)
+TEXT_21=Kidney function tests
+TEXT_20=Complete blood count
+URL_SPANISH=http\://www.nlm.nih.gov/medlineplus/spanish/ency/article/000654.htm
+NAME=Fiebre de las monta\u00F1as rocosas
+TEXT_9=Light sensitivity
+TEXT_8=Diarrhea
+TEXT_7=Other symptoms that may occur with this disease\:
+TEXT_6=Rash -- usually starts a few days after the fever; first appears on wrists and ankles as spots that are 1\u00A0to 5 mm in diameter, then spreads to most of the body. About one-third of infected people do not get a rash.
+TEXT_5=Muscle pain
+TEXT_4=Headache
+TEXT_3=Fever
+TEXT_2=Confusion
+TEXT_1=Chills
+TEXT_0=Symptoms usually develop about 2 to 14 days after the tick bite. They may include\:
+NUMBER_TEXTS=29
+TEXT_19=(CBC)
+TEXT_18=complement
+TEXT_17=Antibody titer
+URL_ENGLISH=http\://www.nlm.nih.gov/medlineplus/ency/article/000654.htm
+TEXT_16=by fixation or immunofluorescence
+TEXT_15=Tests that may be done include\:
+TEXT_14=Vomiting
+TEXT_13=Thirst
+TEXT_12=Nausea
+TEXT_11=Loss of appetite
+TEXT_10=Hallucinations

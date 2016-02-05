@@ -1,0 +1,38 @@
+VALIDATED TERMS
+
+Illness!C0221423!fndg
+sore throat!C0031350!dsyn
+SORETHROAT!C0242429!sosy
+Fever!C0015967!fndg
+Rash!C0015230!dsyn
+Abdominal Pain!C0000737!sosy
+Chills!C0085593!sosy
+DISCOMFORT!C0231218!sosy
+Malaise!C0231218!sosy
+HEAD ACHE!C0018681!sosy
+Muscle aches!C0231528!sosy
+Vomiting!C0042963!sosy
+Throat culture!C0848397!lbpr
+
+
+Summary
+
+	lbpr = 1
+	fndg = 2
+	dsyn = 2
+	sosy = 8
+
+
+NOT VALIDATED TERMS
+
+Infection, NOS!C0009450!dsyn
+Bright red color!C1272329!fndg
+Red!C0332575!fndg
+Antigen detection!C0430420!lbpr
+
+
+Summary
+
+	lbpr = 1
+	fndg = 2
+	dsyn = 1

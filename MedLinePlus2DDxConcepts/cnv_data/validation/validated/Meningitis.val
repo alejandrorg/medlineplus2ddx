@@ -1,0 +1,110 @@
+Viral meningitis:
+	Meningitis!Freebase!CUI
+
+Fall:
+	Falling!Freebase!CUI
+	Repeated falls!ICD10CM!CUI
+
+Fever:
+	Fever!Freebase!CUI
+	Fever, unspecified!ICD10CM!CUI
+	Fever, unspecified!ICD9CM!CUI
+	fever {FEVER}!Symptoms Ontology!Equals
+	Fever {FEVER}!TM Signs and Symptoms Ontology!Equals
+
+Chills:
+	Chills!CSSO Ontology!CUI
+	Chills {CHILLS}!Freebase!Equals
+	Chills (without fever)!ICD10CM!CUI
+	Chills!MeSH!CUI
+
+Nausea:
+	Nausea!CSSO Ontology!CUI
+	Nausea!Freebase!CUI
+	Nausea {NAUSEA}!ICD10CM!Equals
+	Nausea!ICD10CM!CUI
+	Nausea alone {NAUSEA}!ICD9CM!Equals
+	nausea {NAUSEA}!Symptoms Ontology!Equals
+	nausea {NAUSEA}!TM Signs and Symptoms Ontology!Equals
+	nausea {NAUSEA}!Wikipedia!Equals
+
+Vomiting:
+	Vomiting!Freebase!CUI
+	Vomiting, unspecified!ICD10CM!CUI
+	Vomiting alone {VOMITING}!ICD9CM!Equals
+	vomiting {VOMITING}!Symptoms Ontology!Equals
+	vomiting {VOMITING}!TM Signs and Symptoms Ontology!Equals
+	vomiting {VOMITING}!Wikipedia!Equals
+
+Photophobia:
+	Photophobia!CSSO Ontology!CUI
+	Phonophobia {PHONOPHOBIA}!Freebase!Similarity
+	Photophobia!Freebase!CUI
+	Phonophobia {PHONOPHOBIA}!MeSH!Similarity
+	Photophobia!MeSH!CUI
+
+HEAD ACHE:
+	Headache!Freebase!CUI
+	Headache!ICD10CM!CUI
+	Headache!ICD9CM!CUI
+
+Stiff neck:
+	Stiff neck!CSSO Ontology!CUI
+	Stiff neck!Freebase!CUI
+
+Meningismus:
+	Meningismus!CSSO Ontology!CUI
+	Meningism!Freebase!CUI
+	Meningismus!ICD10CM!CUI
+	Meningismus!ICD9CM!CUI
+	Meningism!MeSH!CUI
+
+Agitation:
+	Agitation!Freebase!CUI
+	Agitation {AGITATION}!Freebase!Equals
+	agitation {AGITATION}!TM Signs and Symptoms Ontology!Equals
+
+Poor feeding:
+	Poor feeding!CSSO Ontology!CUI
+	Poor feeding {FEEDING POOR}!Freebase!Equals
+	Poor feeding!Freebase!CUI
+
+Irritability:
+	Irritability!CSSO Ontology!CUI
+	Irritability!Freebase!CUI
+
+Rapid breathing:
+	Tachypnea!CSSO Ontology!CUI
+	Tachypnea!Freebase!CUI
+	Tachypnea, not elsewhere classified!ICD10CM!CUI
+	Tachypnea!ICD9CM!CUI
+
+Opisthotonos:
+	Opisthotonus!Freebase!CUI
+
+fast heart rate:
+	Tachycardia!CSSO Ontology!CUI
+	Tachycardia!Freebase!CUI
+	Tachycardia, unspecified!ICD10CM!CUI
+	Tachycardia, unspecified!ICD9CM!CUI
+
+Lumbar Puncture:
+	Lumbar puncture {LUMBAR PUNCTURE}!Freebase!Equals
+	Lumbar Puncture {LUMBAR PUNCTURE}!MediciNet!Equals
+	Lumbar Puncture {LUMBAR PUNCTURE}!MediciNet!Equals
+	Lumbar Puncture {LUMBAR PUNCTURE}!MediciNet!Equals
+	Lumbar Puncture {LUMBAR PUNCTURE}!MediciNet!Equals
+	Lumbar Puncture {LUMBAR PUNCTURE}!MediciNet!Equals
+	Lumbar Puncture {LUMBAR PUNCTURE}!MediciNet!Equals
+
+Spinal Tap:
+	Spinal tap {SPINAL TAP}!Freebase!Equals
+	Spinal Tap {SPINAL TAP}!MediciNet!Equals
+
+Blood culture:
+	Blood culture {BLOOD CULTURE}!Freebase!Equals
+
+Chest X-ray:
+	Chest X-ray {CHEST RAY X}!Freebase!Equals
+	Chest X-ray {CHEST RAY X}!MediciNet!Equals
+

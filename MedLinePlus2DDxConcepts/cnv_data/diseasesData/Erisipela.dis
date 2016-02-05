@@ -1,14 +1,15 @@
 #
-#Mon Aug 03 14:00:09 CEST 2015
-NUMBER_TEXTS=8
+#Wed Nov 18 18:37:42 CET 2015
+NUMBER_TEXTS=9
 URL_ENGLISH=http\://www.nlm.nih.gov/medlineplus/ency/article/000618.htm
 URL_SPANISH=http\://www.nlm.nih.gov/medlineplus/spanish/ency/article/000618.htm
-TEXT_7=biopsy of the skin
-TEXT_6=Erysipelas is diagnosed based on how the skin looks. A is usually not needed.
-TEXT_5=Sores (erysipelas lesions) on the cheeks and bridge of the nose
-TEXT_4=Skin lesion with a raised border
-TEXT_3=Painful, very red, swollen, and warm skin underneath the sore (lesion)
-TEXT_2=Fever
-TEXT_1=, shaking, and chills
+TEXT_8=biopsy of the skin
+TEXT_7=Erysipelas is diagnosed based on how the skin looks. A is usually not needed.
+TEXT_6=Sores on the cheeks and bridge of the nose
+TEXT_5=Skin sore with a raised border
+TEXT_4=Painful, very red, swollen, and warm skin underneath the sore
+TEXT_3=Fever
+TEXT_2=, shaking, and chills
+TEXT_1=Blisters
 NAME=Erisipela
-TEXT_0=Blisters
+TEXT_0=Symptoms of erysipelas are\:

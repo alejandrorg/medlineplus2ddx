@@ -1,0 +1,48 @@
+Face Pain:
+	Facial pain!Freebase!CUI
+	Headache!ICD10CM!CUI
+
+Fever:
+	Fever!Freebase!CUI
+	Fever, unspecified!ICD10CM!CUI
+	Fever, unspecified!ICD9CM!CUI
+	fever {FEVER}!Symptoms Ontology!Equals
+	Fever {FEVER}!TM Signs and Symptoms Ontology!Equals
+
+HEAD ACHE:
+	Headache!Freebase!CUI
+	Headache!ICD10CM!CUI
+	Headache!ICD9CM!CUI
+
+sore throat:
+	Sore throat {SORE THROAT}!CSSO Ontology!Equals
+	Pharyngitis!Freebase!CUI
+	Sore throat {SORE THROAT}!Freebase!Equals
+
+SORETHROAT:
+	Throat pain!CSSO Ontology!CUI
+	Sore throat!Freebase!CUI
+	Pain in throat!ICD10CM!CUI
+	Throat pain!ICD9CM!CUI
+
+Swelling:
+	Swelling!CSSO Ontology!CUI
+	Swelling!Freebase!CUI
+	swelling {SWELLING}!Wikipedia!Equals
+
+Testicular lump:
+	Testicular mass!Freebase!CUI
+
+testicle pain:
+	Testicular pain!Freebase!CUI
+
+Scrotal swelling:
+	Swelling of scrotum!Freebase!CUI
+
+SWOLLEN GLANDS:
+	Swollen glands {GLANDS SWOLLEN}!Freebase!Equals
+	Swollen lymph nodes!Freebase!CUI
+	Generalized enlarged lymph nodes!ICD10CM!CUI
+	Enlarged lymph nodes, unspecified!ICD10CM!CUI
+	Enlargement of lymph nodes!ICD9CM!CUI
+

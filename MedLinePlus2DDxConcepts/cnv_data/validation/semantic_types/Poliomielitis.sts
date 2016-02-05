@@ -1,0 +1,50 @@
+VALIDATED TERMS
+
+DISCOMFORT!C0231218!sosy
+Malaise!C0231218!sosy
+HEAD ACHE!C0018681!sosy
+Fever!C0015967!fndg
+sore throat!C0031350!dsyn
+SORETHROAT!C0242429!sosy
+Vomiting!C0042963!sosy
+Back stiffness!C0221758!sosy
+Stiff neck!C0151315!sosy
+cultures throat!C0848397!lbpr
+Spinal Tap!C0037943!diap@topp
+PCR!C0032520!lbpr@mbrt
+
+
+Summary
+
+	lbpr = 1
+	lbpr mbrt = 1
+	fndg = 1
+	dsyn = 1
+	diap topp = 1
+	sosy = 7
+
+
+NOT VALIDATED TERMS
+
+Polio!C0032371!dsyn
+Infection, NOS!C0009450!dsyn
+Subclinical Infections!C0275522!dsyn
+Subclinical infection!C0275522!dsyn
+Uneasy!C0424142!fndg
+Red throat!C0455899!fndg
+mild symptoms!C0436343!fndg
+Poliomyelitis!C0032371!dsyn
+Reflexes!C0596002!fndg
+Difficulty!C1299586!fndg
+bending!C0011119!dsyn
+Tests!C0022885!lbpr
+Culture!C0430400!lbpr
+spinal fluid examination!C0430067!lbpr
+Test!C0022885!lbpr
+
+
+Summary
+
+	lbpr = 4
+	fndg = 5
+	dsyn = 6

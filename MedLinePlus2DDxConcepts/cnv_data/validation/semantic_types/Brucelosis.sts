@@ -1,0 +1,56 @@
+VALIDATED TERMS
+
+Abdominal Pain!C0000737!sosy
+BACKPAIN!C0004604!sosy
+Chills!C0085593!sosy
+Excessive sweating!C0700590!sosy
+Fatigue!C0015672!sosy
+Fever!C0015967!fndg
+HEAD ACHE!C0018681!sosy
+Joint Pain!C0003862!sosy
+Loss of appetite!C0003123!dsyn
+Weakness!C0004093!sosy
+WEIGHTLOSS!C0043096!fndg
+Fall!C0085639!fndg
+Muscle Pain!C0231528!sosy
+SWOLLEN GLANDS!C0497156!fndg
+Illness!C0221423!fndg
+Blood culture!C0200949!lbpr
+Urine culture!C0430404!lbpr
+Serology!C0455278!lbpr
+Biopsy!C0005558!diap
+Febrile!C0015967!fndg
+
+
+Summary
+
+	lbpr = 3
+	fndg = 6
+	dsyn = 1
+	sosy = 9
+	diap = 1
+
+
+NOT VALIDATED TERMS
+
+Brucellosis!C0006309!dsyn
+mild symptoms!C0436343!fndg
+Flu!C0021400!dsyn
+Undulant Fever!C0006309!dsyn
+Disease!C0012634!dsyn
+Bone marrow culture!C1254426!lbpr
+Catch!C0231617!sosy
+csf culture!C0430403!lbpr
+specimen culture!C0430400!lbpr
+test results!C0456984!fndg
+Nephelometry!C0027692!lbpr
+Immunoglobulins NOS!C0202081!lbpr
+Serum immunoelectrophoresis!C0036807!lbpr
+
+
+Summary
+
+	lbpr = 6
+	fndg = 2
+	dsyn = 4
+	sosy = 1

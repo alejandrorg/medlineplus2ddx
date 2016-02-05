@@ -1,0 +1,26 @@
+VALIDATED TERMS
+
+Blister!C1579830!fndg
+Itch!C0033774!sosy
+Rash!C0015230!dsyn
+skin sores!C0037299!dsyn
+Swollen lymph nodes!C0497156!fndg
+
+
+Summary
+
+	fndg = 2
+	dsyn = 2
+	sosy = 1
+
+
+NOT VALIDATED TERMS
+
+Infection, NOS!C0009450!dsyn
+Labs!C0587081!fndg
+
+
+Summary
+
+	fndg = 1
+	dsyn = 1

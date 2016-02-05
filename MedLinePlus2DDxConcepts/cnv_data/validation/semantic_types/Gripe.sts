@@ -1,0 +1,45 @@
+VALIDATED TERMS
+
+Fever!C0015967!fndg
+Aches!C0234238!sosy
+Chills!C0085593!sosy
+Dizziness!C0012833!sosy
+flushed face!C0016382!sosy
+HEAD ACHE!C0018681!sosy
+Lack of energy!C0015672!sosy
+Nausea!C0027497!sosy
+Vomiting!C0042963!sosy
+pains!C0030193!sosy
+Dry cough!C0850149!sosy
+Runny nose!C1260880!sosy
+Sneezing!C0037383!fndg
+sore throat!C0031350!dsyn
+SORETHROAT!C0242429!sosy
+Cough!C0010200!sosy
+Asthma!C0004096!dsyn
+illnesses!C0221423!fndg
+hearing!C1455844!fndg
+
+
+Summary
+
+	fndg = 4
+	dsyn = 2
+	sosy = 13
+
+
+NOT VALIDATED TERMS
+
+Flu!C0021400!dsyn
+Tired!C0557875!sosy
+Test!C0022885!lbpr
+detect!C0442726!fndg
+test results!C0456984!fndg
+
+
+Summary
+
+	lbpr = 1
+	fndg = 2
+	dsyn = 1
+	sosy = 1

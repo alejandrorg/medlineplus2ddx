@@ -1,0 +1,91 @@
+HEAD ACHE:
+	Headache!Freebase!CUI
+	Headache!ICD10CM!CUI
+	Headache!ICD9CM!CUI
+
+JOINT ACHE:
+	Joint pain!CSSO Ontology!CUI
+	Joint pain!Freebase!CUI
+
+Fever:
+	Fever!Freebase!CUI
+	Fever, unspecified!ICD10CM!CUI
+	Fever, unspecified!ICD9CM!CUI
+	fever {FEVER}!Symptoms Ontology!Equals
+	Fever {FEVER}!TM Signs and Symptoms Ontology!Equals
+
+Flushing:
+	Blushing {BLUSHING}!Freebase!Similarity
+	Flushing!Freebase!CUI
+	Flushing!ICD10CM!CUI
+	Flushing {FLUSHING}!ICD10CM!Equals
+	Flushing!ICD9CM!CUI
+	Flushing!MeSH!CUI
+
+Loss of appetite:
+	Anorexia!CSSO Ontology!CUI
+	Anorexia!Freebase!CUI
+	Anorexia!ICD10CM!CUI
+	Anorexia!ICD9CM!CUI
+	Anorexia!MeSH!CUI
+	loss of appetite {APPETITE LOSS}!Wikipedia!Equals
+
+Vomiting:
+	Vomiting!Freebase!CUI
+	Vomiting, unspecified!ICD10CM!CUI
+	Vomiting alone {VOMITING}!ICD9CM!Equals
+	vomiting {VOMITING}!Symptoms Ontology!Equals
+	vomiting {VOMITING}!TM Signs and Symptoms Ontology!Equals
+	vomiting {VOMITING}!Wikipedia!Equals
+
+bleeding disorders:
+	Bleeding disorder {BLEEDING DISORDER}!Freebase!Similarity
+	Coagulopathy!Freebase!CUI
+
+Seizures:
+	Seizure!CSSO Ontology!CUI
+	Epileptic seizure!Freebase!CUI
+	Seizures!MeSH!CUI
+
+Coma:
+	Coma!CSSO Ontology!CUI
+	Coma!Freebase!CUI
+	Unspecified coma!ICD10CM!CUI
+	Unspecified coma!ICD10CM!CUI
+	Coma!ICD9CM!CUI
+	Coma!MeSH!CUI
+	coma {COMA}!Symptoms Ontology!Equals
+
+irregular heartbeats:
+	Cardiac dysrhythmia!Freebase!CUI
+	Irregular heartbeat {HEARTBEAT IRREGULAR}!Freebase!Similarity
+
+decrease urination:
+	Decreased urination {DECREASED URINATION}!CSSO Ontology!Similarity
+	Oliguria!Freebase!CUI
+	Oliguria!MeSH!CUI
+
+Yellow skin:
+	Yellow skin {SKIN YELLOW}!Freebase!Equals
+
+Muscle aches:
+	Myalgia!CSSO Ontology!CUI
+	Muscle pain!Freebase!CUI
+
+red eyes:
+	Red eye!CSSO Ontology!CUI
+	Red eye!Freebase!CUI
+	Red eye {EYE RED}!Freebase!Similarity
+
+Vomiting blood:
+	Vomiting of blood!CSSO Ontology!CUI
+	Hematemesis!Freebase!CUI
+	Hematemesis!MeSH!CUI
+
+Blood Tests:
+	Blood test {BLOOD TEST}!Freebase!Similarity
+
+Kidney Failure:
+	Renal failure!CSSO Ontology!CUI
+	Renal failure!Freebase!CUI
+

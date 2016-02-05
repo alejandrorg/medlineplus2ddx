@@ -1,0 +1,45 @@
+VALIDATED TERMS
+
+Rash!C0015230!dsyn
+macules!C0332573!sosy
+papules!C0332563!fndg
+Itch!C0033774!sosy
+Cough!C0010200!sosy
+Fever!C0015967!fndg
+Light Sensitivity!C0085636!sosy
+Photophobia!C0085636!sosy
+Muscle Pain!C0231528!sosy
+Conjunctivitis!C0009763!dsyn
+Runny nose!C1260880!sosy
+sore throat!C0031350!dsyn
+SORETHROAT!C0242429!sosy
+spots!C0015230!dsyn
+Koplik spots!C0221200!sosy
+Serology!C0455278!lbpr
+
+
+Summary
+
+	lbpr = 1
+	fndg = 2
+	dsyn = 4
+	sosy = 9
+
+
+NOT VALIDATED TERMS
+
+Incubation period!C1320226!fndg
+SIGNS!C0311392!fndg
+move!C0578671!fndg
+Discolored!C0332572!fndg
+Red!C0332575!fndg
+Redness!C0332575!fndg
+Measles!C0025007!dsyn
+Viral culture!C0200955!lbpr
+
+
+Summary
+
+	lbpr = 1
+	fndg = 6
+	dsyn = 1

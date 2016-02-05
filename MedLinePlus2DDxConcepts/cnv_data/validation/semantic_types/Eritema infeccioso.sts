@@ -1,0 +1,38 @@
+VALIDATED TERMS
+
+Fever!C0015967!fndg
+HEAD ACHE!C0018681!sosy
+Runny nose!C1260880!sosy
+Rash!C0015230!dsyn
+Illness!C0221423!fndg
+Malar rash!C0277942!fndg
+Itch!C0033774!sosy
+Swelling!C0038999!fndg
+Joint Pain!C0003862!sosy
+Blood Tests!C0018941!lbpr
+Blood test!C0018941!lbpr
+Anaemia!C0002871!dsyn
+
+
+Summary
+
+	lbpr = 2
+	fndg = 4
+	dsyn = 2
+	sosy = 4
+
+
+NOT VALIDATED TERMS
+
+Fifth Disease!C0085273!dsyn
+Sign!C0311392!fndg
+Bright red!C1272329!fndg
+Disease!C0012634!dsyn
+SIGNS!C0311392!fndg
+Pregnant!C0549206!fndg
+
+
+Summary
+
+	fndg = 4
+	dsyn = 2

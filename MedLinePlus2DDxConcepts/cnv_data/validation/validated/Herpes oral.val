@@ -1,0 +1,51 @@
+Mouth ulcers:
+	Mouth ulcer!Freebase!CUI
+
+Itching:
+	Itching!CSSO Ontology!CUI
+	Pruritus!Freebase!CUI
+	itching {ITCHING}!Wikipedia!Equals
+
+sore throat:
+	Sore throat {SORE THROAT}!CSSO Ontology!Equals
+	Pharyngitis!Freebase!CUI
+	Sore throat {SORE THROAT}!Freebase!Equals
+
+SORETHROAT:
+	Throat pain!CSSO Ontology!CUI
+	Sore throat!Freebase!CUI
+	Pain in throat!ICD10CM!CUI
+	Throat pain!ICD9CM!CUI
+
+Fever:
+	Fever!Freebase!CUI
+	Fever, unspecified!ICD10CM!CUI
+	Fever, unspecified!ICD9CM!CUI
+	fever {FEVER}!Symptoms Ontology!Equals
+	Fever {FEVER}!TM Signs and Symptoms Ontology!Equals
+
+SWOLLEN GLANDS:
+	Swollen glands {GLANDS SWOLLEN}!Freebase!Equals
+	Swollen lymph nodes!Freebase!CUI
+	Generalized enlarged lymph nodes!ICD10CM!CUI
+	Enlarged lymph nodes, unspecified!ICD10CM!CUI
+	Enlargement of lymph nodes!ICD9CM!CUI
+
+Painful swallowing:
+	Swallowing painful!CSSO Ontology!CUI
+	Odynophagia!Freebase!CUI
+
+Rash:
+	Skin rash!Freebase!CUI
+	Rash and other nonspecific skin eruption!ICD10CM!CUI
+	Rash and other nonspecific skin eruption!ICD9CM!CUI
+	rash {RASH}!Wikipedia!Equals
+
+Blister:
+	Blister!Freebase!CUI
+	blister {BLISTER}!Wikipedia!Equals
+
+sore:
+	Tenderness!CSSO Ontology!CUI
+	Tenderness!Freebase!CUI
+

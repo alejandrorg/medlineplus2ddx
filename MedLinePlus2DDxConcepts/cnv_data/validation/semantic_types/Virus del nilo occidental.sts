@@ -1,0 +1,57 @@
+VALIDATED TERMS
+
+Abdominal Pain!C0000737!sosy
+Fever!C0015967!fndg
+HEAD ACHE!C0018681!sosy
+sore throat!C0031350!dsyn
+SORETHROAT!C0242429!sosy
+lack of appetite!C0003123!dsyn
+Muscle aches!C0231528!sosy
+Nausea!C0027497!sosy
+Vomiting!C0042963!sosy
+Diarrhea!C0011991!sosy
+Rash!C0015230!dsyn
+Swollen lymph nodes!C0497156!fndg
+Confusion!C0683369!sosy
+Coma!C0009421!dsyn
+Loss of consciousness!C0041657!fndg
+Muscle Weakness!C0151786!sosy
+Stiff neck!C0151315!sosy
+Weakness of arm!C0751409!sosy
+Blood test!C0018941!lbpr
+Spinal Tap!C0037943!diap@topp
+MRI Scan!C0024485!diap
+
+
+Summary
+
+	lbpr = 1
+	fndg = 3
+	dsyn = 4
+	diap topp = 1
+	sosy = 11
+	diap = 1
+
+
+NOT VALIDATED TERMS
+
+Disease!C0012634!dsyn
+West Nile Fever!C0043124!dsyn
+West Nile encephalitis!C0751583!dsyn
+West Nile meningitis!C1321406!dsyn
+Able!C1299581!fndg
+SIGNS!C0311392!fndg
+West nile virus infection!C0043124!dsyn
+Viral Infections!C0042769!dsyn
+Physical examination findings!C0311392!fndg
+Test!C0022885!lbpr
+head ct scan!C0202691!diap
+head MRI!C0412674!diap
+
+
+Summary
+
+	lbpr = 1
+	fndg = 3
+	dsyn = 6
+	diap = 2

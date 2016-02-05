@@ -1,0 +1,36 @@
+VALIDATED TERMS
+
+Fever!C0015967!fndg
+Chills!C0085593!sosy
+HEAD ACHE!C0018681!sosy
+sore throat!C0031350!dsyn
+SORETHROAT!C0242429!sosy
+Muscle Pain!C0231528!sosy
+Weakness!C0004093!sosy
+Fatigue!C0015672!sosy
+Rash!C0015230!dsyn
+Pain!C0030193!sosy
+Diarrhea!C0011991!sosy
+Vomiting!C0042963!sosy
+
+
+Summary
+
+	fndg = 1
+	dsyn = 2
+	sosy = 9
+
+
+NOT VALIDATED TERMS
+
+Incubation period!C1320226!fndg
+bleeding eyes!C0423008!fndg
+Organ failure!C0349410!sosy
+Disease!C0012634!dsyn
+
+
+Summary
+
+	fndg = 2
+	dsyn = 1
+	sosy = 1

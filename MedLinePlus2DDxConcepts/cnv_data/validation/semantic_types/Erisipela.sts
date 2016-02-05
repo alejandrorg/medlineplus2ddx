@@ -1,0 +1,29 @@
+VALIDATED TERMS
+
+Shaking!C0040822!sosy
+Chills!C0085593!sosy
+Fever!C0015967!fndg
+Painful!C0030193!sosy
+Swollen!C0038999!fndg
+Warm skin!C0235218!sosy
+sore!C0234233!sosy
+Biopsy of skin!C0150866!diap
+
+
+Summary
+
+	fndg = 2
+	sosy = 5
+	diap = 1
+
+
+NOT VALIDATED TERMS
+
+Erysipelas!C0014733!dsyn
+Red!C0332575!fndg
+
+
+Summary
+
+	fndg = 1
+	dsyn = 1

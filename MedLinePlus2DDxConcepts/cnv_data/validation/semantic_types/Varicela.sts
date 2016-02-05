@@ -1,0 +1,36 @@
+VALIDATED TERMS
+
+Rash!C0015230!dsyn
+Fever!C0015967!fndg
+HEAD ACHE!C0018681!sosy
+Stomach ache!C0221512!sosy
+Itchy!C0033774!sosy
+Eczema!C0013595!dsyn
+
+
+Summary
+
+	fndg = 1
+	dsyn = 2
+	sosy = 3
+
+
+NOT VALIDATED TERMS
+
+Chicken Pox!C0008049!dsyn
+Disease!C0012634!dsyn
+Red!C0332575!fndg
+Spots on skin!C0848332!sosy
+Skin problem!C0281822!fndg
+Scars!C0241158!fndg
+ask questions!C0566217!fndg
+Personal Medical History!C0262926!fndg
+Laboratory Tests!C0022885!lbpr
+
+
+Summary
+
+	lbpr = 1
+	fndg = 5
+	dsyn = 2
+	sosy = 1

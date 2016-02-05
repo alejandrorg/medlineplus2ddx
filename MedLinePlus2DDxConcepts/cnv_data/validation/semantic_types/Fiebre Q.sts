@@ -1,0 +1,37 @@
+VALIDATED TERMS
+
+Dry cough!C0850149!sosy
+Fever!C0015967!fndg
+HEAD ACHE!C0018681!sosy
+Joint Pain!C0003862!sosy
+Muscle Pain!C0231528!sosy
+Abdominal Pain!C0000737!sosy
+Breast Pain!C0024902!sosy
+Rash!C0015230!dsyn
+Yellow skin!C0558148!fndg
+Chills!C0085593!sosy
+Fatigue!C0015672!sosy
+Night sweats!C0028081!sosy
+Prolonged fever!C0424768!fndg
+Shortness of Breath!C0013404!sosy
+Flu-like symptoms!C0392171!sosy
+Blood test!C0018941!lbpr
+
+
+Summary
+
+	lbpr = 1
+	fndg = 3
+	dsyn = 1
+	sosy = 11
+
+
+NOT VALIDATED TERMS
+
+Q Fever!C0034362!dsyn
+Liver inflammation!C0019158!dsyn
+
+
+Summary
+
+	dsyn = 2
